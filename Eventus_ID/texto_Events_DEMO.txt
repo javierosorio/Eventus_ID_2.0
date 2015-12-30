@@ -1,0 +1,285 @@
+20121201	2012120101_SEDENA_P3_P3 	A1.-[10100] = personal_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P4_P4 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[40100] = individuos_en_flagrancia_delictiva_	Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P5_P5 	A1.-[50200] = mariguana_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P6_P6 	A1.-[50200] = mariguana_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P7_P7 	A1.-[60100] = armas_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P8_P8 	A1.-[60100] = armas_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P9_P9 	A1.-[60600] = cargadores_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P10_P10 	A1.-[60600] = cartuchos_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P11_P11 	A1.-[70100] = vehiculo_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P12_P12 	A1.-[60700] = mira_telescopica_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120101_SEDENA_P13_P13 	A1.-[80200] = plantios_			Edos_i	Mpos_i	10005-durango , dgo
+20121201	2012120102_SEDENA_P3_P26 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	24-s . l . p .	Mpos		24011-cd \. fernandez
+20121201	2012120102_SEDENA_P4_P27 	A1.-[10100] = personal_	V1.-[300] = localizando_	A2.-[50200] = mariguana_	Edos	24-s . l . p .	Mpos		24011-cd \. fernandez
+20121201	2012120102_SEDENA_P5_P28 	A1.-[70200] = automotor_			Edos_i	24-s . l . p .	26-son	Mpos_i	24028-san luis potosi	24011-cd . fernandez
+20121201	2012120102_SEDENA_P9_P32 	A1.-[10100] = militares_			Edos	24-s . l . p .	Mpos	
+20121201	2012120103_SEDENA_P3_P41 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[80300] = laboratorio_	Edos	14-jal .	Mpos		12017-cocula	14024-cocula
+20121201	2012120103_SEDENA_P4_P42 	A1.-[10100] = militares_	V1.-[300] = localizo_	A2.-[80300] = laboratorio_	Edos	14-jal .	Mpos		8062-saucillo	12017-cocula	14024-cocula
+20121201	2012120103_SEDENA_P4_P42 	A1.-[50100] = droga_	V1.-[500] = aseguro_		Edos	14-jal .	Mpos		8062-saucillo	12017-cocula	14024-cocula
+20121201	2012120103_SEDENA_P5_P43 	A1.-[50600] = sustancias_quimicas_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P6_P44 	A1.-[50502] = anfetamina_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P7_P45 	A1.-[50600] = reactores_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P8_P46 	A1.-[50600] = congeladores_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P11_P49 	A1.-[50600] = cisternas_de_plastico_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P12_P50 	A1.-[50200] = mariguana_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P13_P51 	A1.-[50600] = material_para_la_elaboracion_de_droga_sintetica_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P14_P52 	A1.-[60100] = arma_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P15_P53 	A1.-[60600] = cargador_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P16_P54 	A1.-[60600] = cartuchos_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120103_SEDENA_P17_P55 	A1.-[70100] = vehiculos_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	8062-saucillo	25004-concordia
+20121201	2012120104_SEDENA_P3_P66 	A1.-[10100] = personal_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P4_P67 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[40100] = individuos_en_flagrancia_delictiva_	Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[60100] = armas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[60600] = cartuchos_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[60600] = cargadores_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[60500] = granadas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[60501] = lanza_granadas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[50200] = mariguana_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[50300] = cocaina_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[50300] = cocaina_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[70100] = vehiculos_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[70300] = remolque_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[70500] = motocicletas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P5_P68 	A1.-[80100] = inmuebles_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121201	2012120104_SEDENA_P7_P70 	A1.-[10100] = personal_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121204	2012120401_SEDENA_P3_P80 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = individuos_	Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[60100] = armas_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[60600] = cartuchos_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[60600] = cargadores_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[60500] = granadas_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P4_P81 	A1.-[70100] = vehiculos_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P5_P82 	A1.-[10100] = tropas_	V1.-[200] = localizaron_y_destruyeron_	A2.-[80200] = plantios_	Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121204	2012120401_SEDENA_P5_P82 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20390-ixcotel
+20121205	2012120501_SEDENA_P3_P94 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50600] = sustancias_quimicas_	Edos	30-ver	Mpos		30142-san juan evangelista
+20121205	2012120501_SEDENA_P4_P95 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[80100] = inmueble_	Edos	30-ver	Mpos		30142-san juan evangelista
+20121205	2012120501_SEDENA_P4_P95 	A1.-[50600] = sustancias_quimicas_			Edos	30-ver	Mpos		30142-san juan evangelista
+20121206	2012120601_SEDENA_P3_P106 	A1.-[10100] = personal_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[10100] = tropas_	V1.-[100] = detuvieron_	A2.-[40100] = individuos_en_flagrancia_delictiva_	Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[30101] = persona_	V1.-[500] = aseguraron_		Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[50200] = mariguana_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[50200] = mariguana_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[50300] = cocaina_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[50501] = pastillas_psicotropicas_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[40100] = infractores_al_bando_de_policia_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[60100] = armas_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[60100] = armas_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[60600] = cartuchos_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[60600] = cargadores_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P4_P107 	A1.-[70100] = vehiculos_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P5_P108 	A1.-[30101] = persona_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121206	2012120601_SEDENA_P6_P109 	A1.-[10100] = personal_			Edos_i	5-coah	Mpos_i	5035-torreon
+20121207	2012120701_SEDENA_P3_P118 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[80300] = laboratorio_	Edos	14-jal .	Mpos		12017-cocula	14024-cocula
+20121207	2012120701_SEDENA_P3_P118 	A1.-[10100] = militares_	V1.-[300] = localizaron_	A2.-[80300] = laboratorio_	Edos	14-jal .	Mpos		12017-cocula	14024-cocula
+20121207	2012120701_SEDENA_P3_P118 	A1.-[50100] = droga_	V1.-[500] = asegurando_		Edos	14-jal .	Mpos		12017-cocula	14024-cocula
+20121207	2012120701_SEDENA_P4_P119 	A1.-[50502] = metanfetamina_			Edos_i	14-jal .	Mpos_i	12017-cocula	14024-cocula	25004-concordia
+20121207	2012120702_SEDENA_P2_P129 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	28-tamps	Mpos		28032-reynosa
+20121207	2012120702_SEDENA_P3_P130 	A1.-[10100] = tropas_	V1.-[100] = detuvieron_	A2.-[30201] = personas_	Edos	28-tamps	Mpos		25004-concordia
+20121207	2012120702_SEDENA_P3_P130 	A1.-[50200] = mariguana_			Edos	28-tamps	Mpos		25004-concordia
+20121208	2012120801_SEDENA_P3_P139 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[60100] = armas_	Edos	30-ver	Mpos		30138-rio blanco	30118-orizaba
+20121208	2012120801_SEDENA_P3_P139 	A1.-[50100] = droga_			Edos	30-ver	Mpos		30138-rio blanco	30118-orizaba
+20121208	2012120801_SEDENA_P4_P140 	A1.-[10100] = personal_			Edos	30-veracruz	Mpos		30138-rio blanco	30118-orizaba
+20121208	2012120801_SEDENA_P5_P141 	A1.-[10100] = personal_			Edos	30-ver	Mpos		30118-orizaba
+20121208	2012120801_SEDENA_P6_P142 	A1.-[60100] = armas_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P7_P143 	A1.-[60600] = cartuchos_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P8_P144 	A1.-[50300] = cocaina_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P9_P145 	A1.-[50300] = cocaina_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P11_P147 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[70100] = vehiculo_	Edos	30-veracruz	15-mexico	Mpos		30138-rio blanco
+20121208	2012120801_SEDENA_P12_P148 	A1.-[60100] = armas_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P13_P149 	A1.-[60600] = cartuchos_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P14_P150 	A1.-[60600] = cargadores_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120801_SEDENA_P16_P152 	A1.-[60100] = armas_			Edos_i	30-ver	15-mexico	Mpos_i	30138-rio blanco	30118-orizaba	20017-compannia
+20121208	2012120802_SEDENA_P3_P166 	A1.-[10100] = personal_	V1.-[500] = asegura_	A2.-[100200] = combustible_	Edos	30-ver	Mpos		6008-minatitlan	30108-minatitlan
+20121208	2012120802_SEDENA_P4_P167 	A1.-[10100] = personal_	V1.-[500] = aseguro_		Edos	Mpos		6008-minatitlan	30108-minatitlan
+20121208	2012120802_SEDENA_P5_P168 	A1.-[100200] = diesel_			Edos_i	30-ver	Mpos_i	6008-minatitlan	30108-minatitlan
+20121208	2012120802_SEDENA_P8_P171 	A1.-[70100] = vehiculos_			Edos_i	30-ver	Mpos_i	6008-minatitlan	30108-minatitlan
+20121208	2012120802_SEDENA_P9_P172 	A1.-[30101] = persona_			Edos_i	30-ver	Mpos_i	6008-minatitlan	30108-minatitlan
+20121208	2012120803_SEDENA_P3_P182 	A1.-[10100] = personal_	V1.-[500] = asegura_		Edos	26-sonora	Mpos	
+20121208	2012120803_SEDENA_P4_P183 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[50200] = mariguana_	Edos_i	26-sonora	Mpos_i
+20121208	2012120803_SEDENA_P4_P183 	A1.-[30105] = conductor_			Edos_i	26-sonora	Mpos_i
+20121210	2012121001_SEDENA_P3_P195 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	2-baja california	Mpos	
+20121210	2012121001_SEDENA_P4_P196 	A1.-[10100] = personal_			Edos	2-baja california	Mpos	
+20121210	2012121001_SEDENA_P5_P197 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[70200] = camioneta_	Edos	2-b . c .	Mpos		2001-ensenada
+20121210	2012121001_SEDENA_P5_P197 	A1.-[50200] = mariguana_			Edos	2-b . c .	Mpos		2001-ensenada
+20121210	2012121001_SEDENA_P6_P198 	A1.-[50200] = mariguana_			Edos	2-b . c .	Mpos		2002-mexicali
+20121210	2012121002_SEDENA_P3_P210 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	30-ver	Mpos		30062-chocaman
+20121210	2012121002_SEDENA_P3_P210 	A1.-[50100] = droga_			Edos	30-ver	Mpos		30062-chocaman
+20121210	2012121002_SEDENA_P4_P211 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	30-veracruz	Mpos		30062-chocaman
+20121210	2012121002_SEDENA_P5_P212 	A1.-[50300] = cocaina_			Edos_i	30-ver	Mpos_i	30062-chocaman	20017-compannia
+20121210	2012121002_SEDENA_P6_P213 	A1.-[50200] = mariguana_			Edos_i	30-ver	Mpos_i	30062-chocaman	20017-compannia
+20121210	2012121002_SEDENA_P7_P214 	A1.-[70100] = vehiculo_			Edos_i	30-ver	Mpos_i	30062-chocaman	20017-compannia
+20121210	2012121002_SEDENA_P9_P216 	A1.-[10100] = personal_			Edos_i	30-ver	Mpos_i	30062-chocaman	20017-compannia
+20121210	2012121002_SEDENA_P10_P217 	A1.-[60100] = armas_			Edos_i	30-ver	Mpos_i	30062-chocaman	20017-compannia
+20121210	2012121003_SEDENA_P3_P231 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	27-tab	Mpos		27008-huimanguillo
+20121210	2012121003_SEDENA_P4_P232 	A1.-[10100] = personal_	V1.-[300] = detecto_	A2.-[50200] = mariguana_	Edos	27-tab	Mpos		27008-huimanguillo
+20121210	2012121003_SEDENA_P6_P234 	A1.-[10100] = tropas_			Edos_i	27-tab	Mpos_i	27004-villahermosa	27008-huimanguillo
+20121210	2012121003_SEDENA_P7_P235 	A1.-[10100] = personal_			Edos_i	27-tab	Mpos_i	27004-villahermosa	27008-huimanguillo
+20121211	2012121101_SEDENA_P3_P246 	A1.-[10100] = ejercito_mexicano_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	8 -chih	Mpos		8037-samalayuca
+20121211	2012121101_SEDENA_P4_P247 	A1.-[10100] = personal_	V1.-[300] = logro_detectar_	A2.-[70100] = vehiculo_	Edos	14-jal .	8 -chih	Mpos		8037-ciudad juarez	14039-guadalajara
+20121211	2012121101_SEDENA_P4_P247 	A1.-[50200] = mariguana_	V1.-[100] = detuvo_	A2.-[30101] = individuo_	Edos	14-jal .	8 -chih	Mpos		8037-ciudad juarez	14039-guadalajara
+20121211	2012121101_SEDENA_P4_P247 	A1.-[70200] = automotor_			Edos	14-jal .	8 -chih	Mpos		8037-ciudad juarez	14039-guadalajara
+20121211	2012121101_SEDENA_P5_P248 	A1.-[30101] = individuo_			Edos_i	8 -chih	14-jal .	Mpos_i	8037-ciudad juarez	14039-guadalajara
+20121211	2012121101_SEDENA_P6_P249 	A1.-[10100] = personal_			Edos_i	8 -chih	14-jal .	Mpos_i	8037-ciudad juarez	14039-guadalajara
+20121214	2012121401_SEDENA_P2_P258 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	8 -chih	Mpos		8032-hidalgo del parral
+20121214	2012121401_SEDENA_P2_P258 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[70100] = vehiculos_	Edos	8 -chih	Mpos		8032-hidalgo del parral
+20121214	2012121401_SEDENA_P2_P258 	A1.-[50200] = mariguana_	V1.-[500] = asegurando_		Edos	8 -chih	Mpos		8032-hidalgo del parral
+20121214	2012121401_SEDENA_P3_P259 	A1.-[70300] = remolque_			Edos_i	8 -chih	Mpos_i	8032-hidalgo del parral	6005-cuauhtemoc	8017-cuauhtemoc	9015-cuauhtemoc	32008-cuauhtemoc	8021-delicias
+20121214	2012121402_SEDENA_P3_P269 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[70700] = aeronave_	Edos	26-sonora	Mpos	
+20121214	2012121402_SEDENA_P3_P269 	A1.-[50200] = mariguana_			Edos	26-sonora	Mpos	
+20121214	2012121402_SEDENA_P4_P270 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[70700] = aeronave_	Edos	26-son	Mpos		26064-trincheras
+20121214	2012121402_SEDENA_P4_P270 	A1.-[50200] = mariguana_			Edos	26-son	Mpos		26064-trincheras
+20121214	2012121402_SEDENA_P5_P271 	A1.-[70100] = vehiculo_			Edos_i	26-sonora	Mpos_i	26064-trincheras
+20121214	2012121402_SEDENA_P7_P273 	A1.-[10100] = personal_			Edos	26-son	Mpos	
+20121215	2012121501_SEDENA_P3_P284 	A1.-[10100] = personal_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P4_P285 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P5_P286 	A1.-[60100] = armas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P6_P287 	A1.-[60100] = armas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P7_P288 	A1.-[60600] = cartuchos_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P8_P289 	A1.-[60600] = cargadores_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P9_P290 	A1.-[60500] = granadas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P10_P291 	A1.-[60501] = lanza_granadas_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P11_P292 	A1.-[50200] = mariguana_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P12_P293 	A1.-[50200] = mariguana_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P13_P294 	A1.-[50300] = cocaina_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P14_P295 	A1.-[70100] = vehiculos_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P15_P296 	A1.-[70400] = vehiculos_blindados_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P17_P298 	A1.-[70300] = remolque_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P18_P299 	A1.-[100200] = gasolina_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P19_P300 	A1.-[100200] = diesel_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121215	2012121501_SEDENA_P21_P302 	A1.-[10100] = personal_			Edos_i	28-tamps	Mpos_i	28032-reynosa
+20121216	2012121601_SEDENA_P3_P314 	A1.-[10100] = personal_	V1.-[400] = libero_	A2.-[30101] = persona_	Edos	17-mor	Mpos		17028-xochitepec
+20121216	2012121601_SEDENA_P4_P315 	A1.-[10100] = personal_	V1.-[100] = deteniendo_	A2.-[30201] = personas_	Edos	17-morelos	Mpos		17028-xochitepec
+20121216	2012121601_SEDENA_P5_P316 	A1.-[60100] = armas_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P6_P317 	A1.-[60600] = cargadores_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P7_P318 	A1.-[60600] = cartuchos_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P10_P321 	A1.-[50200] = mariguana_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P11_P322 	A1.-[70100] = vehiculo_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P12_P323 	A1.-[80100] = inmueble_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P13_P324 	A1.-[30101] = persona_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P14_P325 	A1.-[10100] = personal_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121216	2012121601_SEDENA_P15_P326 	A1.-[10100] = ejercito_mexicano_			Edos_i	17-mor	Mpos_i	17028-xochitepec
+20121219	2012121901_SEDENA_P2_P334 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50503] = cristal_	Edos	26-son	Mpos		26055-san luis rio colorado
+20121219	2012121901_SEDENA_P2_P334 	A1.-[50300] = cocaina_			Edos	26-son	Mpos		26055-san luis rio colorado
+20121219	2012121901_SEDENA_P3_P335 	A1.-[10200] = efectivos_militares_en_coordinacion_con_personal_de_la_policia_federal_	V1.-[500] = aseguraron_	A2.-[50503] = cristal_	Edos	26-son	Mpos		26055-san luis rio colorado
+20121219	2012121901_SEDENA_P3_P335 	A1.-[50300] = cocaina_			Edos	26-son	Mpos		26055-san luis rio colorado
+20121219	2012121901_SEDENA_P4_P336 	A1.-[50100] = droga_			Edos_i	26-son	Mpos_i	26055-san luis rio colorado
+20121219	2012121901_SEDENA_P5_P337 	A1.-[30105] = conductor_			Edos_i	26-son	Mpos_i	26055-san luis rio colorado
+20121219	2012121901_SEDENA_P6_P338 	A1.-[10100] = personal_			Edos	26-son	Mpos	
+20121220	2012122001_SEDENA_P3_P350 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	28-tamaulipas	Mpos	
+20121220	2012122001_SEDENA_P4_P351 	A1.-[10100] = personal_	V1.-[500] = logro_el_aseguramiento_	A2.-[50200] = mariguana_	Edos	28-tamps	Mpos		28025-miguel aleman	5017-matamoros	8044-matamoros	28022-matamoros	8011-camargo	28007-camargo
+20121220	2012122001_SEDENA_P5_P352 	A1.-[50200] = mariguana_			Edos	28-tamps	Mpos		8011-camargo	28007-camargo
+20121220	2012122001_SEDENA_P6_P353 	A1.-[50200] = mariguana_			Edos	28-tamps	Mpos		5017-matamoros	8044-matamoros	28022-matamoros	28033-rio bravo
+20121220	2012122001_SEDENA_P7_P354 	A1.-[50200] = mariguana_			Edos	28-tamps	Mpos		28025-miguel aleman
+20121220	2012122001_SEDENA_P9_P356 	A1.-[10100] = ejercito_mexicano_			Edos	Mpos		25004-concordia
+20121220	2012122002_SEDENA_P2_P364 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	2-baja california	Mpos		2004-tijuana
+20121220	2012122002_SEDENA_P2_P364 	A1.-[50100] = droga_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	2-baja california	Mpos		2004-tijuana
+20121220	2012122002_SEDENA_P2_P364 	A1.-[50300] = heroina_			Edos	2-baja california	Mpos		2004-tijuana
+20121220	2012122002_SEDENA_P3_P365 	A1.-[70700] = avioneta_			Edos	2-b . c .	Mpos		11030-san felipe	31065-san felipe
+20121223	2012122301_SEDENA_P3_P376 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	28-tamaulipas	Mpos		28027-nuevo laredo	25004-concordia	28033-rio bravo
+20121223	2012122301_SEDENA_P3_P376 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[50200] = mariguana_	Edos	28-tamaulipas	Mpos		28027-nuevo laredo	25004-concordia	28033-rio bravo
+20121223	2012122301_SEDENA_P3_P376 	A1.-[10100] = ejercito_mexicano_			Edos	28-tamaulipas	Mpos		28027-nuevo laredo	25004-concordia	28033-rio bravo
+20121223	2012122302_SEDENA_P3_P385 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50300] = cocaina_	Edos	23-q . roo	Mpos		23005-cancun
+20121223	2012122302_SEDENA_P4_P386 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	23-q . roo	Mpos		23005-cancun
+20121223	2012122302_SEDENA_P4_P386 	A1.-[50300] = cocaina_			Edos	23-q . roo	Mpos		23005-cancun
+20121226	2012122601_SEDENA_P2_P395 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[60200] = armamento_	Edos	25-sinaloa	Mpos		25006-culiacan
+20121226	2012122601_SEDENA_P2_P395 	A1.-[50100] = droga_			Edos	25-sinaloa	Mpos		25006-culiacan
+20121226	2012122601_SEDENA_P3_P396 	A1.-[10100] = personal_	V1.-[500] = aseguro_		Edos	25-sinaloa	Mpos		25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[50503] = cristal_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[50200] = mariguana_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60100] = armas_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60100] = armas_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60501] = aditamento_lanza_granadas_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60500] = granada_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60600] = cargadores_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[60600] = cartuchos_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121226	2012122601_SEDENA_P4_P397 	A1.-[70200] = camioneta_			Edos_i	25-sinaloa	Mpos_i	25006-culiacan
+20121228	2012122801_SEDENA_P3_P406 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	20-oax	Mpos		30106-miahuatlan
+20121228	2012122801_SEDENA_P4_P407 	A1.-[10100] = personal_	V1.-[300] = localizo_		Edos	20-oax	Mpos		20059-miahuatlan de porfirio diaz	12053-san marcos	14075-san marcos
+20121228	2012122801_SEDENA_P5_P408 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20059-miahuatlan de porfirio diaz	30106-miahuatlan	12053-san marcos	14075-san marcos	25004-concordia
+20121228	2012122801_SEDENA_P6_P409 	A1.-[60100] = armas_			Edos_i	20-oax	Mpos_i	20059-miahuatlan de porfirio diaz	30106-miahuatlan	12053-san marcos	14075-san marcos	25004-concordia
+20121228	2012122801_SEDENA_P8_P411 	A1.-[10100] = ejercito_mexicano_			Edos	Mpos		25004-concordia
+20121229	2012122901_SEDENA_P3_P425 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[60200] = armamento_	Edos	25-sin	Mpos		25006-culiacan
+20121229	2012122901_SEDENA_P4_P426 	A1.-[10100] = tropas_	V1.-[300] = localizando_		Edos	25-sin	Mpos		25006-culiacan
+20121229	2012122901_SEDENA_P5_P427 	A1.-[60100] = armas_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122901_SEDENA_P6_P428 	A1.-[60100] = armas_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122901_SEDENA_P8_P430 	A1.-[60600] = cargadores_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122901_SEDENA_P9_P431 	A1.-[60600] = cartuchos_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122901_SEDENA_P10_P432 	A1.-[70100] = vehiculos_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122901_SEDENA_P11_P433 	A1.-[70500] = motocicleta_			Edos_i	25-sin	Mpos_i	25006-culiacan
+20121229	2012122902_SEDENA_P3_P449 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	20-oax	Mpos		20534-san vicente coatlan
+20121229	2012122902_SEDENA_P4_P450 	A1.-[10100] = personal_	V1.-[300] = localizo_		Edos	20-oax	Mpos		20534-san vicente coatlan
+20121229	2012122902_SEDENA_P5_P451 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20059-miahuatlan de porfirio diaz	20534-san vicente coatlan	25004-concordia
+20121229	2012122902_SEDENA_P6_P452 	A1.-[50200] = mariguana_			Edos_i	20-oax	Mpos_i	20059-miahuatlan de porfirio diaz	20534-san vicente coatlan	25004-concordia
+20121229	2012122902_SEDENA_P7_P453 	A1.-[10100] = ejercito_mexicano_			Edos	Mpos		25004-concordia
+20130108	2013010801_SEDENA_P3_P467 	A1.-[10100] = personal_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P4_P468 	A1.-[10100] = tropas_	V1.-[100] = detuvieron_	A2.-[30201] = personas_	Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P5_P469 	A1.-[50200] = mariguana_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P6_P470 	A1.-[60100] = armas_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P7_P471 	A1.-[60100] = armas_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P8_P472 	A1.-[60600] = cargadores_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P9_P473 	A1.-[60600] = cartuchos_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P10_P474 	A1.-[70500] = motocicletas_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P11_P475 	A1.-[70100] = vehiculos_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130108	2013010801_SEDENA_P15_P479 	A1.-[10100] = personal_			Edos_i	5-coah	25-sin	Mpos_i	5035-torreon
+20130109	2013010901_SEDENA_P3_P492 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	2-b . c .	Mpos		2004-tijuana
+20130109	2013010901_SEDENA_P4_P493 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[80500] = bodega_subterranea_	Edos	2-b . c .	Mpos		2004-tijuana
+20130109	2013010901_SEDENA_P4_P493 	A1.-[50200] = mariguana_			Edos	2-b . c .	Mpos		2004-tijuana
+20130110	2013011001_SEDENA_P3_P505 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[80400] = tunel_	Edos	26-son	Mpos		26043-nogales	30115-nogales
+20130110	2013011001_SEDENA_P3_P505 	A1.-[50100] = droga_			Edos	26-son	Mpos		26043-nogales	30115-nogales
+20130111	2013011101_SEDENA_P3_P512 	A1.-[10100] = personal_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P4_P513 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P5_P514 	A1.-[50200] = mariguana_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P6_P515 	A1.-[50200] = mariguana_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P7_P516 	A1.-[50400] = amapola_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P8_P517 	A1.-[50300] = cocaina_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P9_P518 	A1.-[50503] = cristal_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P10_P519 	A1.-[50300] = cocaina_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P11_P520 	A1.-[50503] = cristal_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P12_P521 	A1.-[50200] = mariguana_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P13_P522 	A1.-[60100] = armas_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P14_P523 	A1.-[60100] = armas_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P16_P525 	A1.-[60500] = granadas_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P17_P526 	A1.-[60600] = cargadores_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P18_P527 	A1.-[60600] = cartuchos_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P19_P528 	A1.-[70100] = vehiculos_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P20_P529 	A1.-[90100] = antena_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P21_P530 	A1.-[90100] = radios_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P22_P531 	A1.-[90100] = tactico_diverso_			Edos_i	Mpos_i	10005-durango , dgo
+20130111	2013011101_SEDENA_P23_P532 	A1.-[80200] = plantios_	V1.-[200] = localizaron_y_destruyeron_	A2.-[80600] = pistas_de_aterrizaje_	Edos_i	Mpos_i	10005-durango , dgo
+20130112	2013011201_SEDENA_P3_P543 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	8 -chih	Mpos		8037-ciudad juarez
+20130112	2013011201_SEDENA_P4_P544 	A1.-[10100] = personal_	V1.-[300] = localizaron_	A2.-[50200] = mariguana_	Edos	8 -chih	Mpos		8037-ciudad juarez
+20130112	2013011201_SEDENA_P6_P546 	A1.-[10100] = personal_			Edos_i	8 -chih	Mpos_i	8037-ciudad juarez
+20130113	2013011301_SEDENA_P3_P555 	A1.-[10100] = personal_	V1.-[200] = llevo_a_cabo_la_destruccion_	A2.-[80200] = plantio_	Edos	18-nay	Mpos		18004-compostela
+20130113	2013011301_SEDENA_P3_P555 	A1.-[50200] = mariguana_			Edos	18-nay	Mpos		18004-compostela
+20130113	2013011301_SEDENA_P4_P556 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[80200] = plantio_	Edos	18-nay	Mpos		18004-compostela
+20130113	2013011301_SEDENA_P4_P556 	A1.-[50200] = mariguana_			Edos	18-nay	Mpos		18004-compostela
+20130113	2013011301_SEDENA_P5_P557 	A1.-[10100] = personal_			Edos_i	18-nay	Mpos_i	18017-tepic	18004-compostela
+20130116	2013011601_SEDENA_P2_P566 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = individuos_	Edos	25-sin	Mpos		25011-guasave
+20130116	2013011601_SEDENA_P2_P566 	A1.-[60200] = armamento_			Edos	25-sin	Mpos		25011-guasave
+20130116	2013011601_SEDENA_P3_P567 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = individuos_	Edos	25-sin	Mpos		25011-guasave
+20130116	2013011601_SEDENA_P5_P569 	A1.-[60100] = armas_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P6_P570 	A1.-[60100] = armas_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P7_P571 	A1.-[60500] = granadas_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P8_P572 	A1.-[60600] = cargadores_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P9_P573 	A1.-[60600] = cartuchos_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P10_P574 	A1.-[70100] = vehiculo_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011601_SEDENA_P11_P575 	A1.-[90100] = tactico_diverso_			Edos_i	25-sin	Mpos_i	25011-guasave
+20130116	2013011602_SEDENA_P2_P584 	A1.-[10100] = personal_	V1.-[500] = aseguro_	A2.-[50200] = mariguana_	Edos	28-tamaulipas	Mpos	
+20130116	2013011602_SEDENA_P3_P585 	A1.-[10100] = militares_	V1.-[300] = localizaron_	A2.-[50200] = mariguana_	Edos	28-tamps	Mpos		28027-nuevo laredo	28032-reynosa	8011-camargo	28007-camargo
+20130116	2013011602_SEDENA_P3_P585 	A1.-[30201] = individuos_			Edos	28-tamps	Mpos		28027-nuevo laredo	28032-reynosa	8011-camargo	28007-camargo
+20130117	2013011701_SEDENA_P3_P598 	A1.-[10100] = personal_	V1.-[200] = localiza_y_destruye_	A2.-[80200] = plantios_	Edos	3-b . c . s .	Mpos	
+20130117	2013011701_SEDENA_P3_P598 	A1.-[50200] = mariguana_			Edos	3-b . c . s .	Mpos	
+20130117	2013011701_SEDENA_P4_P599 	A1.-[10100] = personal_	V1.-[300] = localizo_	A2.-[80200] = plantios_	Edos	3-b . c . s .	Mpos	
+20130117	2013011701_SEDENA_P4_P599 	A1.-[50200] = mariguana_			Edos	3-b . c . s .	Mpos	
+20130118	2013011801_SEDENA_P3_P608 	A1.-[10100] = personal_	V1.-[500] = asegura_	A2.-[50200] = mariguana_	Edos	28-tamaulipas	Mpos	
+20130118	2013011801_SEDENA_P4_P609 	A1.-[10100] = personal_	V1.-[100] = detuvo_	A2.-[30201] = personas_	Edos	28-tamps	Mpos		28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P5_P610 	A1.-[50200] = mariguana_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P6_P611 	A1.-[60100] = armas_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P7_P612 	A1.-[60600] = cartuchos_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P9_P614 	A1.-[90100] = celulares_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P10_P615 	A1.-[100100] = material_diverso_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P11_P616 	A1.-[70600] = embarcacion_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P12_P617 	A1.-[70300] = plataforma_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P13_P618 	A1.-[50600] = contenedor_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo
+20130118	2013011801_SEDENA_P15_P620 	A1.-[70100] = vehiculo_			Edos_i	28-tamps	Mpos_i	28032-reynosa	28015-gustavo diaz ordaz	28027-nuevo laredo

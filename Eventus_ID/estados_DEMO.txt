@@ -1,0 +1,120 @@
+1	Aguascalientes
+1	ags
+2	Baja California
+2	BC
+2	B C
+2	B.C.
+2	B . C .
+3	Baja California Sur
+3	BCS
+3	B C S
+3	B . C . S .
+3	bcs
+3	b.c.s.
+3	b . c . s .
+4	Campeche
+4	Camp
+4	Cam
+4	CAMP
+4	CAM
+5	Coahuila de Zaragoza
+5	Coahuila
+5	COAH
+5	Coah
+6	Colima
+6	Col
+6	COL
+7	Chiapas
+7	Chis
+7	CHIS
+8	Chihuahua
+8	Chih
+8 	CHIH
+9	Distrito Federal
+9	DF
+9	D F
+9	df
+9	d.f.
+9	d . f .
+9	D . F .
+9	Mexico, D.F.
+9	Mexico, DF
+9	Mexico, D F
+10	Durango
+10	dgo
+10	Dgo
+10	DGO
+11	Guanajuato
+11	Gto
+11	GTO
+12	Guerrero
+12	Gro
+12	GRO
+13	Hidalgo
+13	Hgo
+13	HGO
+14	Jalisco
+14	Jal
+14	Jal .
+14	JAL
+15	Mexico
+15	Edo. Mex.
+15	Edo Mex
+16	Michoacan de Ocampo
+16	Michoacan
+16	Mich
+16	MICH
+17	Morelos
+17	MOR
+17	Mor
+18	Nayarit
+18	Nay
+18	NAY
+19	Nuevo Leon
+19	NL
+19	N L 
+20	Oaxaca
+20	Oax
+20	OAX
+21	Puebla
+21	pue
+21	Pue
+21	PUE
+22	Queretaro Arteaga
+22	Queretaro
+22	Qro
+22	QRO
+23	Quintana Roo
+23	Q Roo
+23	Q . Roo
+23	QROO
+24	San Luis Potosí
+24	SLP
+24	S.L.P.
+24	S L P 
+24	S . L . P .
+25	Sinaloa
+25	Sin
+25	SIN
+26	Sonora
+26	Son
+26	SON
+27	Tabasco
+27	Tab
+27	TAB
+28	Tamaulipas
+28	Tamps
+28	TAMPS
+29	Tlaxcala
+29	Tlax
+29	TLAX
+30	Veracruz de Ignacio de la Llave
+30	Veracruz
+30	Ver
+30	VER
+31	Yucatan
+31	Yuc
+31	YUC
+32	Zacatecas
+32	Zac
+32	ZAC

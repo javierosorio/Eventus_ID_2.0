@@ -1,0 +1,3025 @@
+1001	Aguascalientes
+1002	Asientos
+1003	Calvillo
+1004	Cosio
+1005	Jesus Maria
+1006	Pabellon de Arteaga
+1007	Rincon de Ramos
+1008	San Jose de Gracia
+1009	Tepezala
+1010	El Llano
+1010	Palo Alto
+1011	San Francisco de los Romo
+2001	Ensenada
+2002	Mexicali
+2003	Tecate
+2004	Tijuana
+2005	Playas de Rosarito
+3001	Ciudad Constitucion
+3001	Cd . Constitucion
+3001	Comondu
+3002	Mulege
+3002	Santa Rosalia
+3003	La Paz
+3008	Los Cabos
+3008	Cabo San Lucas
+3008	San Jose del Cabo
+3009	Loreto
+4001	Calkini
+4002	Campeche
+4003	Carmen
+4003	Ciudad del Carmen
+4003	Cd . del Carmen
+4004	Champoton
+4005	Hecelchakan
+4006	Hopelchen
+4007	Palizada
+4008	Tenabo
+4009	Escarcega
+4010	Calakmul
+4010	Xpujil
+4011	Candelaria
+5001	Abasolo
+5001	Abasolo
+5002	Ciudad Acunna
+5002	Cd . Acunna
+5002	Acunna
+5003	Allende
+5004	Arteaga
+5005	Candela
+5006	Castannos
+5007	Cuatrocienegas de Carranza
+5007	Cuatro Cienegas
+5008	Escobedo
+5009	Francisco I Madero
+5009	Francisco I. Madero
+5010	Frontera
+5011	General Cepeda
+5012	Guerrero
+5013	Hidalgo
+5014	Jimenez
+5015	Juarez
+5016	Lamadrid
+5017	Matamoros
+5018	Monclova
+5019	Morelos
+5020	Ciudad Melchor Muzquiz
+5020	Cd . Melchor Muzquiz
+5020	Muzquiz
+5021	Nadadores
+5022	Nava
+5023	Ocampo
+5024	Parras de la Fuente
+5024	Parras
+5025	Piedras Negras
+5026	Progreso
+5027	Ramos Arizpe
+5028	Sabinas
+5029	Sacramento
+5030	Saltillo
+5031	San Buenaventura
+5032	San Juan de Sabinas
+5032	Nueva Rosita
+5033	San Pedro
+5034	Sierra Mojada
+5035	Torreon
+5036	Viesca
+5037	Villa Union
+5038	Zaragoza
+6001	Armeria
+6002	Colima
+6003	Comala
+6004	Coquimatlan
+6005	Cuauhtemoc
+6006	Ixtlahuacan
+6007	Manzanillo
+6008	Minatitlan
+6009	Tecoman
+6010	Villa de Alvarez
+7001	Acacoyagua
+7002	Acala
+7003	Acapetahua
+7004	Altamirano
+7005	Amatan
+7006	Amatenango de la Frontera
+7007	Amatenango del Valle
+7008	Angel Albino Corzo
+7008	Jaltenango de la Paz
+7009	Arriaga
+7010	Bejucal de Ocampo
+7011	Bella Vista
+7012	Berriozabal
+7013	Bochil
+7014	El Bosque
+7014	Bosque
+7015	Cacahoatan
+7016	Catazaja
+7017	Cintalapa
+7017	Cintalapa de Figueroa
+7018	Coapilla
+7019	Comitan de Dominguez
+7020	La Concordia
+7021	Copainala
+7022	Chalchihuitan
+7023	Chamula
+7024	Chanal
+7025	Chapultenango
+7026	Chenalho
+7027	Chiapa de Corzo
+7028	Chiapilla
+7029	Chicoasen
+7030	Chicomuselo
+7031	Chilon
+7032	Escuintla
+7033	Rivera El Viejo Carmen
+7033	Francisco Leon
+7034	Frontera Comalapa
+7035	Frontera Hidalgo
+7036	La Grandeza
+7036	Grandeza
+7037	Huehuetan
+7038	Huixtan
+7039	Huitiupan
+7040	Huixtla
+7041	Independencia
+7041	La Independencia
+7042	Ixhuatan
+7043	Ixtacomitan
+7044	Ixtapa
+7045	Ixtapangajoya
+7046	Jiquipilas
+7047	Jitotol
+7048	Juarez
+7049	Larrainzar
+7050	Libertad
+7050	La Libertad
+7051	Mapastepec
+7052	Margaritass
+7052	Las Margaritas
+7053	Mazapa de Madero
+7054	Mazatan
+7055	Metapa
+7055	Metapa de Dominguez
+7056	Mitontic
+7057	Motozintla
+7057	Motozintla de Mendoza
+7058	Nicolas Ruiz
+7059	Ocosingo
+7060	Ocotepec
+7061	Ocozocoautla de Espinosa
+7062	Ostuacan
+7063	Osumacinta
+7064	Oxchuc
+7065	Palenque
+7066	Pantelho
+7067	Pantepec
+7068	Pichucalco
+7069	Pijijiapan
+7070	El Porvenir
+7070	Porvenir de Velasco Suarez
+7071	Villa Comaltitlan
+7072	Pueblo Nuevo Solistahuacan
+7073	Rayon
+7074	Reforma
+7075	Rosass
+7075	Las Rosas
+7076	Sabanilla
+7077	Salto de Agua
+7078	San Cristobal de las Casas
+7079	San Fernando
+7080	Siltepec
+7081	Simojovel de Allende
+7081	Simojovel
+7082	Sitala
+7083	Socoltenango
+7084	Solosuchiapa
+7085	Soyalo
+7086	Suchiapa
+7087	Ciudad Hidalgo
+7087	Cd . Hidalgo
+7087	Suchiate
+7088	Sunuapa
+7089	Tapachula de Cordova y Ordonnez
+7089	Tapachula
+7090	Tapalapa
+7091	Tapilula
+7092	Tecpatan
+7093	Tenejapa
+7094	Teopisca
+7096	Tila
+7097	Tonala
+7098	Totolapa
+7099	Trinitaria
+7099	La Trinitaria
+7100	Tumbala
+7101	Tuxtla Gutierrez
+7102	Tuxtla Chico
+7103	Tuzantan
+7104	Tzimol
+7105	Union Juarez
+7106	Venustiano Carranza
+7107	Villa Corzo
+7108	Villaflores
+7109	Yajalon
+7110	San Lucas
+7111	Zinacantan
+7112	San Juan Cancuc
+7113	Aldama
+7114	Benemerito de las Americas
+7115	Maravilla Tenejapa
+7116	Zamora Pico de Oro
+7116	Marques de Comillas
+7117	Montecristo de Guerrero
+7118	San Andres Duraznal
+7119	Santiago el Pinar
+7119	Santiago el Pinal
+8001	Miguel Ahumada
+8001	Ahumada
+8002	Juan Aldama
+8002	Aldama
+8003	Valle de Ignacio Allende
+8003	Allende
+8004	Aquiles Serdan
+8004	Santa Eulalia
+8005	Ascension
+8006	Bachiniva
+8007	Mariano Balleza
+8007	Balleza
+8008	Batopilas
+8009	Bocoyna
+8010	Buenaventura
+8010	San Buenaventura
+8011	Camargo
+8011	Santa Rosalia de Camargo
+8012	Carichi
+8013	Casas Grandes
+8014	Jose Esteban Coronado
+8014	Coronado
+8015	Santiago de Coyame
+8015	Coyame del Sotol
+8016	La Cruz
+8017	Cuauhtemoc
+8018	Cusihuiriachi
+8019	Chihuahua
+8019	Chihuahua , Chih
+8020	Chinipas
+8020	Chinipas de Almada
+8021	Delicias
+8022	Dr Belisario Dominguez
+8022	San Lorenzo
+8023	Hermenegildo Galeana
+8023	Galeana
+8024	Santa Isabel
+8025	Gomez Farias
+8025	Valentin Gomez Farias
+8026	San Nicolas de Carretas
+8026	Gran Morelos
+8027	Guachochi
+8028	Guadalupe
+8029	Guadalupe y Calvo
+8030	Guazapares
+8030	Temoris
+8031	Vicente Guerrero
+8032	Hidalgo del Parral
+8033	Huejotitan
+8034	Ignacio Zaragoza
+8035	Janos
+8036	Jose Mariano Jimenez
+8036	Jimenez
+8037	Cd Juarez
+8037	Cd . Juarez
+8037	Ciudad Juarez
+8037	Juarez
+8037	Samalayuca
+8038	Julimes
+8039	Lopez
+8039	Octaviano Lopez
+8040	Madera
+8041	Maguarichi
+8042	Manuel Benavides
+8043	Matachi
+8044	Matamoros
+8044	Mariano Matamoros
+8045	Meoqui
+8045	Pedro Meoqui
+8046	Morelos
+8047	Moris
+8048	Namiquipa
+8049	Nonoava
+8050	Nuevo Casas Grandes
+8051	Melchor Ocampo
+8051	Ocampo
+8052	Ojinaga
+8052	Manuel Ojinaga
+8053	Praxedis G Guerrero
+8053	Praxedis G. Guerrero
+8054	Riva Palacio
+8054	San Andres
+8055	Santa Cruz de Rosales
+8055	Rosales
+8056	Rosario
+8056	Valle del Rosario
+8057	San Francisco de Borja
+8058	San Francisco de Conchos
+8059	San Francisco del Oro
+8060	Santa Barbara
+8061	San Francisco Javier de Satevo
+8061	Satevo
+8062	Saucillo
+8063	Temosachi
+8064	El Tule
+8064	Tule
+8065	Urique
+8066	Uruachi
+8067	Valle de Zaragoza
+9002	Azcapotzalco
+9003	Coyoacan
+9004	Cuajimalpa de Morelos
+9005	Gustavo A Madero
+9006	Iztacalco
+9007	Iztapalapa
+9008	La Magdalena Contreras
+9009	Milpa Alta
+9010	Alvaro Obregon
+9011	Tlahuac
+9012	Tlalpan
+9013	Xochimilco
+9014	Benito Juarez
+9015	Cuauhtemoc
+9016	Miguel Hidalgo
+9017	Venustiano Carranza
+10001	Canatlan
+10001	Ciudad Canatlan
+10001	Cd . Canatlan
+10002	Canelas
+10003	Coneto de Comonfort
+10004	Cuencame de Ceniceros
+10004	Cuencame
+10005	Durango
+10005	Durango , Dgo
+10005	Victoria de Durango
+10006	General Simon Bolivar
+10007	Gomez Palacio
+10008	Ciudad Guadalupe Victoria
+10008	Cd . Guadalupe Victoria
+10008	Guadalupe Victoria
+10009	Guanacevi
+10010	Hidalgo
+10010	Villa Hidalgo
+10011	Inde
+10012	Lerdo
+10012	Ciudad Lerdo
+10012	Cd . Lerdo
+10013	Mapimi
+10014	San Francisco del Mezquital
+10014	Mezquital
+10015	Nazas
+10016	Nombre de Dios
+10017	Ocampo
+10017	Villa Ocampo
+10018	El Oro
+10018	Santa Maria del Oro
+10019	Otaez
+10020	Francisco I. Madero
+10020	Panuco de Coronado
+10021	Pennon Blanco
+10022	Villa Union
+10022	Poanas
+10023	Salto
+10023	Pueblo Nuevo
+10024	Rodeo
+10025	San Bernardo
+10026	San Dimas
+10026	Tayoltita
+10027	San Juan de Guadalupe
+10028	San Juan del Rio del Centauro del Norte
+10028	San Juan del Rio
+10029	San Luis de Cordero
+10029	San Luis del Cordero
+10030	San Pedro del Gallo
+10031	Santa Clara
+10032	Santiago Papasquiaro
+10033	Suchil
+10033	Suchil
+10034	Tamazula de Victoria
+10034	Tamazula
+10035	Santa Catarina de Tepehuanes
+10035	Tepehuanes
+10036	Tlahualilo
+10036	Tlahualilo de Zaragoza
+10037	Topia
+10038	Vicente Guerrero
+10039	Nuevo Ideal
+11001	Abasolo
+11002	Acambaro
+11003	San Miguel de Allende
+11004	Apaseo el Alto
+11005	Apaseo el Grande
+11006	Atarjea
+11007	Celaya
+11008	Manuel Doblado
+11008	Ciudad Manuel Doblado
+11008	Cd . Manuel Doblado
+11009	Comonfort
+11010	Coroneo
+11011	Cortazar
+11012	Cueramaro
+11013	Doctor Mora
+11014	Dolores Hidalgo Cuna de la Independencia Nal
+11014	Dolores Hidalgo, Cuna de la Independencia Nacional
+11014	Dolores Hidalgo Cuna de la Independencia Nacional
+11014	Dolores Hidalgo 
+11015	Guanajuato
+11016	Huanimaro
+11017	Irapuato
+11018	Jaral del Progreso
+11019	Jerecuaro
+11020	Leon
+11020	Leon de los Aldama
+11021	Moroleon
+11022	Ocampo
+11023	Penjamo
+11024	Pueblo Nuevo
+11025	Purisima del Rincon
+11025	Purisima de Bustos
+11026	Romita
+11027	Salamanca
+11028	Salvatierra
+11029	San Diego de la Union
+11030	San Felipe
+11031	San Francisco del Rincon
+11032	San Jose Iturbide
+11033	San Luis de la Paz
+11034	Santa Catarina
+11035	Juventino Rosas
+11035	Santa Cruz de Juventino Rosas
+11036	Santiago Maravatio
+11037	Silao
+11038	Tarandacuao
+11039	Tarimoro
+11040	Tierra Blanca
+11041	Uriangato
+11042	Valle de Santiago
+11043	Victoria
+11044	Villagran
+11045	Xichu
+11045	Xichu
+11046	Yuriria
+12001	Acapulco de Juarez
+12002	Ahuacuotzingo
+12003	Ajuchitlan del Progreso
+12004	Alcozauca de Guerrero
+12005	Alpoyeca
+12006	Apaxtla
+12006	Apaxtla de Castrejon
+12007	Arcelia
+12008	Atenango del Rio
+12009	Atlamajalcingo del Monte
+12010	Atlixtac
+12011	Atoyac de Alvarez
+12012	Ayutla de los Libres
+12013	Azoyu
+12013	Azoyu
+12014	San Jeronimo de Juarez
+12014	Benito Juarez
+12015	Buenavista de Cuellar
+12016	Coahuayutla de Jose Maria Izazaga
+12016	Coahuayutla de Guerrero
+12017	Cocula
+12018	Copala
+12019	Copalillo
+12020	Copanatoyac
+12021	Coyuca de Benitez
+12022	Coyuca de Catalan
+12023	Cuajinicuilapa
+12024	Cualac
+12025	Cuautepec
+12026	Cuetzala del Progreso
+12027	Cutzamala de Pinzon
+12028	Chilapa de Alvarez
+12029	Chilpancingo de los Bravo
+12030	Cruz Grande
+12030	Florencio Villarreal
+12031	Acapetlahuaya
+12031	General Canuto A Neri
+12032	Tlacotepec
+12032	General Heliodoro Castillo
+12033	Huamuxtitlan
+12034	Ciudad de Huitzuco
+12034	Cd . de Huitzuco
+12034	Huitzuco de los Figueroa
+12035	Iguala de la Independencia
+12036	Igualapa
+12037	Ixcateopan de Cuauhtemoc
+12038	Jose Azueta
+12038	Zihuatanejo
+12039	Tierra Colorada
+12039	Juan R Escudero
+12040	Leonardo Bravo
+12040	Chichihualco
+12041	Malinaltepec
+12042	Martir de Cuilapan
+12042	Apango
+12043	Metlatonoc
+12044	Mochitlan
+12045	Olinala
+12046	Ometepec
+12047	Ixcapuzalco
+12047	Pedro Ascencio Alquisiras
+12048	Petatlan
+12049	Pilcaya
+12050	Ciudad Altamirano
+12050	Cd . Altamirano
+12050	Pungarabato
+12051	Quechultenango
+12052	San Luis Acatlan
+12053	San Marcos
+12054	San Miguel Totolapan
+12055	Taxco de Alarcon
+12056	Tecoanapa
+12057	Tecpan de Galeana
+12058	Teloloapan
+12059	Tepecoacuilco de Trujano
+12060	Tetipac
+12061	Tixtla de Guerrero
+12062	Tlacoachistlahuaca
+12063	Tlacoapa
+12064	Tlalchapa
+12065	Tlalixtaquilla de Maldonado
+12065	Tlalixtaquilla
+12066	Tlapa de Comonfort
+12067	Tlapehuala
+12068	Union
+12068	La Union de Isidoro Montes de Oca
+12069	Xalpatlahuac
+12070	Xochihuehuetlan
+12071	Xochistlahuaca
+12072	Zapotitlan Tablas
+12073	Zirandaro de los Chavez
+12073	Zirandaro
+12074	Zitlala
+12075	Zumpango del Rio
+12075	Eduardo Neri
+12076	Acatepec
+12077	Marquelia
+12078	Cochoapa el Grande
+12079	Jose Joaquin de Herrera
+12080	Juchitan
+12081	Iliatenco
+13001	Acatlan
+13002	Acaxochitlan
+13003	Actopan
+13004	Agua Blanca Iturbide
+13004	Agua Blanca de Iturbide
+13005	Ajacuba
+13006	Alfajayucan
+13007	Almoloya
+13008	Apan
+13009	Arenal
+13009	El Arenal
+13010	Atitalaquia
+13011	Atlapexco
+13012	Atotonilco el Grande
+13013	Atotonilco de Tula
+13014	Calnali
+13015	Cardonal
+13016	Cuautepec de Hinojosa
+13017	Chapantongo
+13018	Chapulhuacan
+13019	Chilcuautla
+13020	Eloxochitlan
+13021	Emiliano Zapata
+13022	Epazoyucan
+13023	Francisco I Madero
+13023	Tepatepec
+13024	Huasca de Ocampo
+13025	Huautla
+13026	Huazalingo
+13027	Huehuetla
+13028	Huejutla de Reyes
+13029	Huichapan
+13030	Ixmiquilpan
+13031	Jacala
+13031	Jacala de Ledezma
+13032	Jaltocan
+13033	Juarez
+13033	Juarez Hidalgo
+13034	Lolotla
+13035	Metepec
+13036	Mezquititlan
+13036	San Agustin Metzquititlan
+13037	Metztitlan
+13038	Mineral del Chico
+13039	Mineral del Monte
+13040	Mision
+13040	La Mision
+13041	Mixquiahuala
+13041	Mixquiahuala de Juarez
+13042	Molango de Escamilla
+13042	Molango
+13043	Nicolas Flores
+13044	Nopala
+13044	Nopala de Villagran
+13045	Omitlan de Juarez
+13046	San Felipe Orizatlan
+13046	Orizatlan
+13047	Pacula
+13048	Pachuca de Soto
+13049	Pisaflores
+13050	Progreso de Obregon
+13050	Progreso
+13051	Mineral de la Reforma
+13051	Pachuquilla
+13052	San Agustin Tlaxiaca
+13053	San Bartolo Tutotepec
+13054	San Salvador
+13055	Santiago de Anaya
+13056	Santiago Tulantepec de Lugo Guerrero
+13056	Santiago Tulantepec
+13057	Singuilucan
+13058	Tasquillo
+13059	Tecozautla
+13060	Tenango de Doria
+13061	Tepeapulco
+13062	Tepehuacan de Guerrero
+13063	Tepeji del Rio de Ocampo
+13063	Tepeji de Ocampo
+13064	Tepetitlan
+13065	Tetepango
+13066	Tezontepec
+13066	Villa de Tezontepec
+13067	Tezontepec de Aldama
+13068	Tianguistengo
+13069	Tizayuca
+13070	Tlahuelilpan
+13071	Tlahuiltepa
+13072	Tlanalapa
+13073	Tlanchinol
+13074	Tlaxcoapan
+13075	Tolcayuca
+13076	Tula de Allende
+13077	Tulancingo
+13077	Tulancingo de Bravo
+13078	Xochiatipan
+13079	Xochicoatlan
+13080	Yahualica
+13081	Zacualtipan de Angeles
+13081	Zacualtipan
+13082	Zapotlan de Juarez
+13083	Zempoala
+13084	Zimapan
+14001	Acatic
+14002	Acatlan de Juarez
+14003	Ahualulco de Mercado
+14004	Amacueca
+14005	Amatitan
+14006	Ameca
+14007	Antonio Escobedo
+14007	San Juanito de Escobedo
+14008	Arandas
+14009	El Arenal
+14009	Arenal
+14010	Atemajac de Brizuela
+14011	Atengo
+14012	Atenguillo
+14013	Atotonilco el Alto
+14014	Atoyac
+14015	Autlan de Navarro
+14016	Ayotlan
+14017	Ayutla
+14018	La Barca
+14018	Barca
+14019	Bolannos
+14020	Tuito
+14020	Cabo Corrientes
+14021	Casimiro Castillo
+14022	Cihuatlan
+14023	Ciudad Guzman
+14023	Cd . Guzman
+14023	Zapotlan el Grande
+14024	Cocula
+14025	Colotlan
+14026	Concepcion de Buenos Aires
+14027	Cuautitlan
+14027	Cuautitlan de Garcia Barragan
+14028	Cuautla
+14029	Cuquio
+14030	Chapala
+14031	Chimaltitan
+14032	Chiquilistlan
+14033	Degollado
+14034	Ejutla
+14035	Encarnacion de Diaz
+14036	Etzatlan
+14037	El Grullo
+14037	Grullo
+14038	Guachinango
+14039	Guadalajara
+14040	Hostotipaquillo
+14041	Huejucar
+14041	Huejucar
+14042	Huejuquilla el Alto
+14043	Huerta
+14043	La Huerta
+14044	Ixtlahuacan de los Membrillos
+14045	Ixtlahuacan del Rio
+14046	Jalostotitlan
+14047	Jamay
+14048	Jesus Maria
+14048	Jesus Maria
+14049	Jilotlan de los Dolores
+14050	Jocotepec
+14051	Juanacatlan
+14052	Juchitlan
+14053	Lagos de Moreno
+14054	Limon
+14054	El Limon
+14055	Magdalena
+14056	Santa Maria del Oro
+14057	La Manzanilla de la Paz
+14057	Manzanilla de la Paz
+14058	Mascota
+14059	Mazamitla
+14060	Mexticacan
+14061	Mezquitic
+14062	Mixtlan
+14063	Ocotlan
+14064	Ojuelos de Jalisco
+14065	Pihuamo
+14066	Poncitlan
+14067	Puerto Vallarta
+14068	Villa Purificacion
+14069	Quitupan
+14070	Salto
+14070	El Salto
+14071	San Cristobal de la Barranca
+14072	San Diego de Alejandria
+14073	San Juan de los Lagos
+14074	San Julian
+14075	San Marcos
+14076	San Martin de Bolannos
+14077	San Martin Hidalgo
+14078	San Miguel el Alto
+14079	San Sebastian del Sur
+14079	Gomez Farias
+14080	San Sebastian del Oeste
+14081	Santa Maria de los Angeles
+14082	Sayula
+14083	Tala
+14084	Talpa de Allende
+14085	Tamazula de Gordiano
+14086	Tapalpa
+14087	Tecalitlan
+14088	Tecolotlan
+14089	Techaluta de Montenegro
+14090	Tenamaxtlan
+14091	Teocaltiche
+14092	Teocuitatlan de Corona
+14093	Tepatitlan de Morelos
+14094	Tequila
+14095	Teuchitlan
+14096	Tizapan el Alto
+14097	Tlajomulco de Zunniga
+14097	Tlajomulco de Zunniga
+14098	Tlaquepaque
+14099	Toliman
+14100	Tomatlan
+14101	Tonala
+14102	Tonaya
+14103	Tonila
+14104	Totatiche
+14105	Tototlan
+14106	Tuxcacuesco
+14107	Tuxcueca
+14108	Tuxpan
+14109	Union de San Antonio
+14110	Union de Tula
+14111	Valle de Guadalupe
+14112	Valle de Juarez
+14113	San Gabriel
+14114	Villa Corona
+14115	Villa Guerrero
+14116	Villa Hidalgo
+14117	Cannadas de Obregon
+14118	Yahualica de Gonzalez Gallo
+14119	Zacoalco de Torres
+14120	Zapopan
+14121	Zapotiltic
+14122	Zapotitlan de Vadillo
+14123	Zapotlan del Rey
+14124	Zapotlanejo
+15001	Acambay
+15002	Acolman de Nezahualcoyotl
+15002	Acolman
+15003	Aculco
+15003	Aculco de Espinoza
+15004	Almoloya de Alquisiras
+15005	Villa de Almoloya de Juarez
+15005	Almoloya de Juarez
+15006	Almoloya del Rio
+15007	Amanalco de Becerra
+15007	Amanalco
+15008	Amatepec
+15009	Amecameca
+15009	Amecameca de Juarez
+15010	Apaxco de Ocampo
+15010	Apaxco
+15011	Atenco
+15011	San Salvador Atenco
+15012	Atizapan
+15012	Santa Cruz Atizapan
+15013	Atizapan de Zaragoza
+15013	Ciudad Lopez Mateos
+15013	Cd . Lopez Mateos
+15014	Atlacomulco
+15014	Atlacomulco de Fabela
+15015	Atlautla
+15015	Atlautla de Victoria
+15016	Axapusco
+15017	Ayapango
+15017	Ayapango de Gabriel Ramos Millan
+15018	Calimaya de Diaz Gonzalez
+15018	Calimaya
+15019	Capulhuac
+15019	Capulhuac de Mirafuentes
+15020	Coacalco de Berriozabal
+15020	San Francisco Coacalco
+15021	Coatepec Harinas
+15022	Cocotitlan
+15023	Coyotepec
+15024	Cuautitlan
+15025	Chalco de Diaz Covarrubias
+15025	Chalco
+15026	Chapa de Mota
+15027	Chapultepec
+15028	Chiautla
+15029	Chicoloapan
+15029	Chicoloapan de Juarez
+15030	Chiconcuac
+15030	Chiconcuac de Juarez
+15031	Chimalhuacan
+15032	Villa Donato Guerra
+15032	Donato Guerra
+15033	Ecatepec de Morelos
+15034	Ecatzingo de Hidalgo
+15034	Ecatzingo
+15035	Huehuetoca
+15036	Hueypoxtla
+15037	Huixquilucan
+15037	Huixquilucan de Degollado
+15038	Isidro Fabela
+15038	Tlazala de Fabela
+15039	Ixtapaluca
+15040	Ixtapan de la Sal
+15041	Ixtapan del Oro
+15042	Ixtlahuaca de Rayon
+15042	Ixtlahuaca
+15043	Xalatlaco
+15044	Jaltenco
+15045	Jilotepec de Molina Enriquez
+15045	Jilotepec
+15046	Jilotzingo
+15046	Santa Ana Jilotzingo
+15047	Jiquipilco
+15048	Jocotitlan
+15049	Joquicingo de Leon Guzman
+15049	Joquicingo
+15050	Juchitepec de Mariano Rivapalacio
+15050	Juchitepec
+15051	Lerma
+15051	Lerma de Villada
+15052	Malinalco
+15053	Melchor Ocampo
+15054	Metepec
+15055	San Mateo Mexicaltzingo
+15055	Mexicaltzingo
+15056	San Bartolo Morelos
+15056	Morelos
+15057	Naucalpan de Juarez
+15058	Nezahualcoyotl
+15058	Ciudad Nezahualcoyotl
+15058	Cd . Nezahualcoyotl
+15059	Nextlalpan
+15059	Santa Ana Nextlalpan
+15060	Nicolas Romero
+15060	Villa Nicolas Romero
+15061	Nopaltepec
+15062	Ocoyoacac
+15063	Ocuilan de Arteaga
+15063	Ocuilan
+15064	El Oro
+15064	Oro de Hidalgo
+15065	Otumba de Gomez Farias
+15065	Otumba
+15066	Otzoloapan
+15067	Villa Cuauhtemoc
+15067	Otzolotepec
+15068	Ozumba de Alzate
+15068	Ozumba
+15069	Papalotla
+15070	La Paz
+15070	Reyes Acaquilpan
+15071	Polotitlan de la Ilustracion
+15071	Polotitlan
+15072	Santa Maria Rayon
+15072	Rayon
+15073	San Antonio la Isla
+15074	San Felipe del Progreso
+15075	San Martin de las Piramides
+15076	San Mateo Atenco
+15077	San Simon de Guerrero
+15078	Santo Tomas de los Platanos
+15078	Santo Tomas
+15079	San Francisco Soyaniquilpan
+15079	Soyaniquilpan de Juarez
+15080	Sultepec de Pedro Ascencio de Alquisiras
+15080	Sultepec
+15081	Tecamac
+15081	Tecamac de Felipe Villanueva
+15082	Tejupilco
+15082	Tejupilco de Hidalgo
+15083	Temamatla
+15084	Temascalapa
+15085	Temascalcingo de Jose Maria Velasco
+15085	Temascalcingo
+15086	Temascaltepec
+15086	Temascaltepec de Gonzalez
+15087	Temoaya
+15088	Tenancingo de Degollado
+15088	Tenancingo
+15089	Tenango del Aire
+15090	Tenango de Arista
+15090	Tenango del Valle
+15091	Teoloyucan
+15092	Teotihuacan de Arista
+15092	Teotihuacan
+15093	Tepetlaoxtoc de Hidalgo
+15093	Tepetlaoxtoc
+15094	Tepetlixpa
+15095	Tepotzotlan
+15096	Tequixquiac
+15097	Texcaltitlan
+15098	San Mateo Texcalyacac
+15098	Texcalyacac
+15099	Texcoco de Mora
+15099	Texcoco
+15100	Tezoyuca
+15101	Tianguistenco
+15101	Santiago Tianguistenco de Galeana
+15102	San Andres Timilpan
+15102	Timilpan
+15103	Tlalmanalco de Velazquez
+15103	Tlalmanalco
+15104	Tlalnepantla de Baz
+15104	Tlalnepantla
+15105	Tlatlaya
+15106	Toluca
+15106	Toluca de Lerdo
+15107	Tonatico
+15108	Tultepec
+15109	Tultitlan de Mariano Escobedo
+15109	Tultitlan
+15110	Valle de Bravo
+15111	Villa de Allende
+15111	San Jose Villa de Allende
+15112	Villa del Carbon
+15113	Villa Guerrero
+15114	Villa Victoria
+15115	Xonacatlan
+15116	Zacazonapan
+15117	Zacualpan
+15118	San Miguel Zinacantepec
+15118	Zinacantepec
+15119	Zumpahuacan
+15120	Zumpango de Ocampo
+15120	Zumpango
+15121	Cuautitlan Izcalli
+15122	Xico
+15122	Valle de Chalco Solidaridad
+15123	Luvianos
+15124	San Jose del Rincon
+15125	Tonanitla
+16001	Acuitzio
+16001	Acuitzio del Canje
+16002	Aguililla
+16003	Alvaro Obregon
+16004	Angamacutiro
+16004	Angamacutiro de la Union
+16005	Mineral de Angangueo
+16005	Angangueo
+16006	Apatzingan de la Constitucion
+16006	Apatzingan
+16007	Aporo
+16008	Aquila
+16009	Ario
+16009	Ario de Rosales
+16010	Arteaga
+16011	Brisennas
+16011	Brisennas de Matamoros
+16012	Buenavista
+16012	Buenavista Tomatlan
+16013	Caracuaro de Morelos
+16013	Caracuaro
+16014	Coahuayana
+16014	Coahuayana de Hidalgo
+16015	Coalcoman de Vazquez
+16015	Coalcoman
+16015	Coalcoman de Vazquez Pallares
+16016	Coeneo
+16016	Coeneo de la Libertad
+16017	Contepec
+16018	Copandaro
+16018	Copandaro de Galeana
+16019	Cotija de la Paz
+16019	Cotija
+16020	Cuitzeo del Porvenir
+16020	Cuitzeo
+16021	Charapan
+16022	Charo
+16023	Chavinda
+16024	Cheran
+16025	Chilchota
+16026	Chinicuila
+16026	Villa Victoria
+16027	Chucandiro
+16028	Churintzio
+16029	Churumuco
+16029	Churumuco de Morelos
+16030	Ecuandureo
+16031	Epitacio Huerta
+16032	Erongaricuaro
+16033	Gabriel Zamora
+16033	Lombardia
+16034	Ciudad Hidalgo
+16034	Cd . Hidalgo
+16035	La Huacana
+16035	Huacana
+16036	Huandacareo
+16037	Huaniqueo
+16037	Huaniqueo de Morales
+16038	Huetamo de Nunnez
+16038	Huetamo
+16039	Huiramba
+16040	Indaparapeo
+16041	Irimbo
+16042	Ixtlan de los Hervores
+16042	Ixtlan
+16043	Jacona
+16043	Jacona de Plancarte
+16044	Villa Jimenez
+16044	Jimenez
+16045	Jiquilpan
+16045	Jiquilpan de Juarez
+16046	Benito Juarez
+16046	Juarez
+16047	Jungapeo de Juarez
+16047	Jungapeo
+16048	Lagunillas
+16049	Madero
+16049	Villa Madero
+16050	Maravatio
+16050	Maravatio de Ocampo
+16051	Marcos Castellanos
+16051	San Jose de Gracia
+16052	Ciudad Lazaro Cardenas
+16052	Cd . Lazaro Cardenas
+16052	Lazaro Cardenas
+16053	Morelia
+16054	Morelos
+16054	Villa Morelos
+16055	Mugica
+16055	Nueva Italia de Ruiz
+16056	Nahuatzen
+16057	Nocupetaro de Morelos
+16057	Nocupetaro
+16058	Nuevo San Juan Parangaricutiro
+16058	Nuevo Parangaricutiro
+16059	Nuevo Urecho
+16060	Numaran
+16061	Ocampo
+16062	Pajacuaran
+16063	Panindicuaro
+16064	Paracuaro
+16065	Paracho
+16065	Paracho de Verduzco
+16066	Patzcuaro
+16067	Penjamillo
+16067	Penjamillo de Degollado
+16068	Periban
+16068	Periban de Ramos
+16069	La Piedad
+16069	Las Piedad de Cabadas
+16070	Purepero
+16070	Purepero de Echaiz
+16071	Puruandiro
+16072	Querendaro
+16073	Quiroga
+16074	Cojumatlan de Regules
+16075	Los Reyes
+16075	Reyes de Salgado
+16076	Sahuayo
+16076	Sahuayo de Morelos
+16077	San Lucas
+16078	Santa Ana Maya
+16079	Santa Clara del Cobre
+16079	Salvador Escalante
+16080	Senguio
+16081	Susupuato
+16081	Susupuato de Guerrero
+16082	Tacambaro de Codallos
+16082	Tacambaro
+16083	Tancitaro
+16084	Santiago Tangamandapio
+16084	Tangamandapio
+16085	Tangancicuaro de Arista
+16085	Tangancicuaro
+16086	Tanhuato de Guerrero
+16086	Tanhuato
+16087	Taretan
+16088	Tarimbaro
+16089	Tepalcatepec
+16090	Tingambato
+16091	Tingyindin
+16091	Tinguindin
+16092	Tiquicheo de Nicolas Romero
+16092	Tiquicheo
+16093	Tlalpujahua
+16093	Tlalpujahua de Rayon
+16094	Tlazazalca
+16095	Tocumbo
+16096	Tumbiscatio
+16096	Tumbiscatio de Ruiz
+16097	Turicato
+16098	Tuxpan
+16099	Tuzantla
+16100	Tzintzuntzan
+16101	Tzitzio
+16102	Uruapan
+16103	Venustiano Carranza
+16104	Villamar
+16105	Vista Hermosa
+16105	Vista Hermosa de Negrete
+16106	Yurecuaro
+16107	Zacapu
+16108	Zamora
+16108	Zamora de Hidalgo
+16109	Zinaparo
+16110	Zinapecuaro de Figueroa
+16110	Zinapecuaro
+16111	Ziracuaretiro
+16112	Zitacuaro
+16112	Heroica Zitacuaro
+16113	Jose Sixto Verduzco
+16113	Pastor Ortiz
+17001	Amacuzac
+17002	Atlatlahucan
+17003	Axochiapan
+17004	Ayala
+17004	Ciudad Ayala
+17004	Cd . Ayala
+17005	Coatlan del Rio
+17006	Cuautla
+17007	Cuernavaca
+17008	Emiliano Zapata
+17009	Huitzilac
+17010	Jantetelco
+17011	Jiutepec
+17012	Jojutla
+17013	Jonacatepec
+17014	Mazatepec
+17015	Miacatlan
+17016	Ocuituco
+17017	Puente de Ixtla
+17018	Temixco
+17019	Tepalcingo
+17020	Tepoztlan
+17021	Tetecala
+17022	Tetela del Volcan
+17023	Tlalnepantla
+17024	Tlaltizapan
+17025	Tlaquiltenango
+17026	Tlayacapan
+17027	Totolapan
+17028	Xochitepec
+17029	Yautepec
+17029	Yautepec de Zaragoza
+17030	Yecapixtla
+17031	Zacatepec de Hidalgo
+17032	Zacualpan de Amilpas
+17033	Temoac
+18001	Acaponeta
+18002	Ahuacatlan
+18003	Amatlan de Cannas
+18004	Compostela
+18005	Huajicori
+18006	Ixtlan del Rio
+18007	Jala
+18008	Xalisco
+18009	Jesus Maria
+18009	Del Nayar
+18010	Rosamorada
+18011	Ruiz
+18012	San Blas
+18013	San Pedro Lagunillas
+18014	Santa Maria del Oro
+18015	Santiago Ixcuintla
+18016	Tecuala
+18017	Tepic
+18018	Tuxpan
+18019	La Yesca
+18019	Las Yesca
+18020	Valle de Banderas
+18020	Bahia de Banderas
+19001	Abasolo
+19002	Agualeguas
+19003	Aldamas
+19003	Los Aldamas
+19004	Ciudad de Allende
+19004	Cd . de Allende
+19004	Allende
+19005	Anahuac
+19006	Ciudad Apodaca
+19006	Cd . Apodaca
+19006	Apodaca
+19007	Aramberri
+19008	Bustamante
+19009	Cadereyta Jimenez
+19010	Carmen
+19011	Ciudad Cerralvo
+19011	Cd . Cerralvo
+19011	Cerralvo
+19012	Cienega de Flores
+19013	China
+19014	Dr Arroyo
+19014	Doctor Arroyo
+19015	Doctor Coss
+19015	Dr Coss
+19016	Doctor Gonzalez
+19016	Dr Gonzalez
+19017	Galeana
+19018	Garcia
+19019	San Pedro Garza Garcia
+19020	Gral Bravo
+19020	General Bravo
+19021	Gral Escobedo
+19021	Gral . Escobedo
+19021	Ciudad General Escobedo
+19021	Cd . General Escobedo
+19022	Ciudad General Teran
+19022	Cd . General Teran
+19022	Gral Teran
+19022	Gral . Teran
+19023	Gral Trevinno
+19023	Gral . Trevinno
+19023	General Trevinno
+19024	General Zaragoza
+19024	Gral Zaragoza
+19024	Gral . Zaragoza
+19025	Gral Zuazua
+19025	Gral . Zuazua
+19025	General Zuazua
+19026	Guadalupe
+19027	Herreras
+19027	Los Herreras
+19028	Higueras
+19029	Hualahuises
+19030	Iturbide
+19031	Juarez
+19031	Ciudad Benito Juarez
+19031	Cd . Benito Juarez
+19032	Lampazos de Naranjo
+19033	Linares
+19034	Marin
+19035	Melchor Ocampo
+19036	Mier y Noriega
+19037	Mina
+19038	Montemorelos
+19039	Monterrey
+19040	Paras
+19041	Pesqueria
+19042	Ramones
+19042	Los Ramones
+19043	Rayones
+19044	Sabinas Hidalgo
+19044	Ciudad Sabinas Hidalgo
+19044	Cd . Sabinas Hidalgo
+19045	Salinas Victoria
+19046	San Nicolas de los Garza
+19047	Hidalgo
+19048	Ciudad Santa Catarina
+19048	Cd . Santa Catarina
+19048	Santa Catarina
+19049	Santiago
+19050	Vallecillo
+19051	Villaldama
+19051	Ciudad de Villaldama
+19051	Cd . de Villaldama
+20001	Abejones
+20002	Acatlan de Perez Figueroa
+20003	Asuncion Cacalotepec
+20004	Asuncion Cuyotepeji
+20005	Asuncion Ixtaltepec
+20006	Asuncion Nochixtlan
+20007	Asuncion Ocotlan
+20008	Asuncion Tlacolulita
+20009	Ayotzintepec
+20010	Barrio de la Soledad
+20010	El Barrio de la Soledad
+20011	Calihuala
+20012	Candelaria Loxicha
+20013	Cienega de Zimatlan
+20014	Ciudad Ixtepec
+20014	Cd . Ixtepec
+20015	Coatecas Altas
+20016	Coicoyan de las Flores
+20017	La Compannia
+20017	Compannia
+20018	Concepcion Buenavista
+20019	Concepcion Papalo
+20020	Constancia del Rosario
+20021	Cosolapa
+20022	Cosoltepec
+20023	Cuilapam de Guerrero
+20024	Cuyamecalco Villa de Zaragoza
+20025	Chahuites
+20026	Chalcatongo de Hidalgo
+20027	Chiquihuitlan de Benito Juarez
+20028	Heroica Ciudad de Ejutla de Crespo
+20028	Ciudad de Ejutla de Crespo
+20028	Cd . de Ejutla de Crespo
+20029	Eloxochitlan de Flores Magon
+20030	Espinal
+20030	El Espinal
+20031	Tamazulapam del Espiritu Santo
+20032	Fresnillo de Trujano
+20033	Guadalupe Etla
+20034	Guadalupe de Ramirez
+20035	Guelatao de Juarez
+20036	Guevea de Humboldt
+20037	Mesones Hidalgo
+20038	Villa Hidalgo
+20039	Heroica Ciudad de Huajuapan de Leon
+20039	Ciudad de Huajuapan de Leon
+20039	Cd . de Huajuapan de Leon
+20040	Huautepec
+20041	Huautla de Jimenez
+20042	Ixtlan de Juarez
+20043	Juchitan de Zaragoza
+20044	Loma Bonita
+20045	Magdalena Apasco
+20046	Magdalena Jaltepec
+20047	Santa Magdalena Jicotlan
+20048	Magdalena Mixtepec
+20049	Magdalena Ocotlan
+20050	Magdalena Pennasco
+20051	Magdalena Teitipac
+20052	Magdalena Tequisistlan
+20053	Magdalena Tlacotepec
+20054	Magdalena Zahuatlan
+20055	Mariscala de Juarez
+20056	Martires de Tacubaya
+20057	Matias Romero Avendanno
+20057	Matias Romero
+20058	Mazatlan Villa de Flores
+20059	Miahuatlan de Porfirio Diaz
+20060	Mixistlan de la Reforma
+20061	Monjas
+20062	Natividad
+20063	Nazareno Etla
+20064	Nejapa de Madero
+20065	Ixpantepec Nieves
+20066	Santiago Niltepec
+20067	Oaxaca
+20067	Oaxaca , Oax
+20067	Oaxaca de Juarez
+20068	Ocotlan de Morelos
+20069	La Pe
+20069	Las Pe
+20070	Pinotepa de Don Luis
+20071	Pluma Hidalgo
+20072	San Jose del Progreso
+20073	Putla Villa de Guerrero
+20074	Santa Catarina Quioquitani
+20075	Reforma de Pineda
+20076	La Reforma
+20076	Las Reforma
+20077	Reyes Etla
+20078	Rojas de Cuauhtemoc
+20079	Salina Cruz
+20080	San Agustin Amatengo
+20081	San Agustin Atenango
+20082	San Agustin Chayuco
+20083	San Agustin de las Juntas
+20084	San Agustin Etla
+20085	San Agustin Loxicha
+20086	San Agustin Tlacotepec
+20087	San Agustin Yatareni
+20088	San Andres Cabecera Nueva
+20089	San Andres Dinicuiti
+20090	San Andres Huaxpaltepec
+20091	San Andres Huayapam
+20092	San Andres Ixtlahuaca
+20093	San Andres Lagunas
+20094	San Andres Nuxinno
+20095	San Andres Paxtlan
+20096	San Andres Sinaxtla
+20097	San Andres Solaga
+20098	San Andres Teotilalpam
+20099	San Andres Tepetlapa
+20100	San Andres Yaa
+20101	San Andres Zabache
+20102	San Andres Zautla
+20103	San Antonino Castillo Velasco
+20104	San Antonino el Alto
+20105	San Antonino Monte Verde
+20106	San Antonio Acutla
+20107	San Antonio de la Cal
+20108	San Antonio Huitepec
+20109	San Antonio Nanahuatipam
+20110	San Antonio Sinicahua
+20111	San Antonio Tepetlapa
+20112	San Baltazar Chichicapam
+20113	San Baltazar Loxicha
+20114	San Baltazar Yatzachi el Bajo
+20115	San Bartolo Coyotepec
+20116	San Bartolome Ayautla
+20117	San Bartolome Loxicha
+20118	San Bartolome Quialana
+20119	San Bartolome Yucuanne
+20120	San Bartolome Zoogocho
+20121	San Bartolo Soyaltepec
+20122	San Bartolo Yautepec
+20123	San Bernardo Mixtepec
+20124	San Blas Atempa
+20125	San Carlos Yautepec
+20126	San Cristobal Amatlan
+20127	San Cristobal Amoltepec
+20128	San Cristobal Lachirioag
+20129	San Cristobal Suchixtlahuaca
+20130	San Dionisio del Mar
+20131	San Dionisio Ocotepec
+20132	San Dionisio Ocotlan
+20133	San Esteban Atatlahuca
+20134	San Felipe Jalapa de Diaz
+20135	San Felipe Tejalapam
+20136	San Felipe Usila
+20137	San Francisco Cahuacua
+20137	San Francisco Cahuacua
+20138	San Francisco Cajonos
+20139	San Francisco Chapulapa
+20140	San Francisco Chindua
+20140	San Francisco Chindua
+20141	San Francisco del Mar
+20142	San Francisco Huehuetlan
+20143	San Francisco Ixhuatan
+20144	San Francisco Jaltepetongo
+20145	San Francisco Lachigolo
+20146	San Francisco Logueche
+20147	San Francisco Nuxanno
+20148	San Francisco Ozolotepec
+20149	San Francisco Sola
+20150	San Francisco Telixtlahuaca
+20151	San Francisco Teopan
+20152	San Francisco Tlapancingo
+20153	San Gabriel Mixtepec
+20154	San Ildefonso Amatlan
+20155	San Ildefonso Sola
+20156	San Ildefonso Villa Alta
+20157	San Jacinto Amilpas
+20158	San Jacinto Tlacotepec
+20159	San Jeronimo Coatlan
+20160	San Jeronimo Silacayoapilla
+20161	San Jeronimo Sosola
+20162	San Jeronimo Taviche
+20163	San Jeronimo Tecoatl
+20164	San Jorge Nuchita
+20165	San Jose Ayuquila
+20166	San Jose Chiltepec
+20167	San Jose del Pennasco
+20168	San Jose Estancia Grande
+20169	San Jose Independencia
+20170	San Jose Lachiguiri
+20171	San Jose Tenango
+20172	San Juan Achiutla
+20173	San Juan Atepec
+20174	Animas Trujano
+20175	San Juan Bautista Atatlahuca
+20176	San Juan Bautista Coixtlahuaca
+20177	San Juan Bautista Cuicatlan
+20178	San Juan Bautista Guelache
+20179	San Juan Bautista Jayacatlan
+20180	San Juan Bautista Lo de Soto
+20180	San Juan Bautista lo de Soto
+20181	San Juan Bautista Suchitepec
+20182	San Juan Bautista Tlacoatzintepec
+20183	San Juan Bautista Tlachichilco
+20184	San Juan Bautista Tuxtepec
+20185	San Juan Cacahuatepec
+20186	San Juan Cieneguilla
+20187	San Juan Coatzospam
+20188	San Juan Colorado
+20189	San Juan Comaltepec
+20190	San Juan Cotzocon
+20191	San Juan Chicomezuchil
+20191	San Juan Chicomezuchil
+20192	San Juan Chilateca
+20193	San Juan del Estado
+20194	San Juan del Rio
+20195	San Juan Diuxi
+20196	San Juan Evangelista Analco
+20197	San Juan Guelavia
+20198	San Juan Guichicovi
+20199	San Juan Ihualtepec
+20200	San Juan Juquila Mixes
+20201	San Juan Juquila Vijanos
+20202	San Juan Lachao
+20203	San Juan Lachigalla
+20204	San Juan Lajarcia
+20205	San Juan Lalana
+20206	San Juan de los Cues
+20207	San Juan Mazatlan
+20208	San Juan Mixtepec - Dto 08 -
+20208	San Juan Mixtepec - Distr. 08 -
+20209	San Juan Mixtepec - Dto 26 -
+20209	San Juan Mixtepec - Distr. 26 -
+20210	San Juan NNumi
+20210	San Juan yumi
+20211	San Juan Ozolotepec
+20212	San Juan Petlapa
+20213	San Juan Quiahije
+20214	San Juan Quiotepec
+20215	San Juan Sayultepec
+20216	San Juan Tabaa
+20217	San Juan Tamazola
+20218	San Juan Teita
+20219	San Juan Teitipac
+20220	San Juan Tepeuxila
+20221	San Juan Teposcolula
+20222	San Juan Yaee
+20223	San Juan Yatzona
+20224	San Juan Yucuita
+20225	San Lorenzo
+20226	San Lorenzo Albarradas
+20227	San Lorenzo Cacaotepec
+20228	San Lorenzo Cuaunecuiltitla
+20229	San Lorenzo Texmelucan
+20230	San Lorenzo Victoria
+20231	San Lucas Camotlan
+20232	San Lucas Ojitlan
+20233	San Lucas Quiavini
+20234	San Lucas Zoquiapam
+20235	San Luis Amatlan
+20236	San Marcial Ozolotepec
+20237	San Marcos Arteaga
+20238	San Martin de los Cansecos
+20239	San Martin Huamelulpam
+20240	San Martin Itunyoso
+20241	San Martin Lachila
+20242	San Martin Peras
+20243	San Martin Tilcajete
+20244	San Martin Toxpalan
+20245	San Martin Zacatepec
+20246	San Mateo Cajonos
+20247	Capulalpam de Mendez
+20248	San Mateo del Mar
+20249	San Mateo Yoloxochitlan
+20250	San Mateo Etlatongo
+20251	San Mateo Nejapam
+20252	San Mateo Pennasco
+20253	San Mateo Pinnas
+20254	San Mateo Rio Hondo
+20255	San Mateo Sindihui
+20256	San Mateo Tlapiltepec
+20257	San Melchor Betaza
+20258	San Miguel Achiutla
+20259	San Miguel Ahuehuetitlan
+20260	San Miguel Aloapam
+20261	San Miguel Amatitlan
+20262	San Miguel Amatlan
+20263	San Miguel Coatlan
+20264	San Miguel Chicahua
+20265	San Miguel Chimalapa
+20266	San Miguel del Puerto
+20267	San Miguel del Rio
+20268	San Miguel Ejutla
+20269	San Miguel el Grande
+20270	San Miguel Huautla
+20271	San Miguel Mixtepec
+20272	San Miguel Panixtlahuaca
+20273	San Miguel Peras
+20274	San Miguel Piedras
+20275	San Miguel Quetzaltepec
+20276	San Miguel Santa Flor
+20277	Villa Sola de Vega
+20278	Temascal
+20278	San Miguel Soyaltepec
+20279	San Miguel Suchixtepec
+20280	Villa Talea de Castro
+20281	San Miguel Tecomatlan
+20282	San Miguel Tenango
+20283	San Miguel Tequixtepec
+20284	San Miguel Tilquiapam
+20285	San Miguel Tlacamama
+20286	San Miguel Tlacotepec
+20287	San Miguel Tulancingo
+20288	San Miguel Yotao
+20289	San Nicolas
+20290	San Nicolas Hidalgo
+20291	San Pablo Coatlan
+20292	San Pablo Cuatro Venados
+20293	San Pablo Etla
+20294	San Pablo Huitzo
+20295	San Pablo Huixtepec
+20296	San Pablo Macuiltianguis
+20297	San Pablo Tijaltepec
+20298	San Pablo Villa de Mitla
+20299	San Pablo Yaganiza
+20300	San Pedro Amuzgos
+20301	San Pedro Apostol
+20302	San Pedro Atoyac
+20303	San Pedro Cajonos
+20304	San Pedro Coxcaltepec Cantaros
+20305	San Pedro Comitancillo
+20306	San Pedro el Alto
+20307	San Pedro Huamelula
+20308	San Pedro Huilotepec
+20309	San Pedro Ixcatlan
+20310	San Pedro Ixtlahuaca
+20311	San Pedro Jaltepetongo
+20312	San Pedro Jicayan
+20313	San Pedro Jocotipac
+20314	San Pedro Juchatengo
+20315	San Pedro Martir
+20316	San Pedro Martir Quiechapa
+20317	San Pedro Martir Yucuxaco
+20318	San Pedro Mixtepec - Dto 22 -
+20318	San Pedro Mixtepec - Distr. 22 -
+20319	San Pedro Mixtepec - Distr. 26 -
+20319	San Pedro Mixtepec - Dto 26 -
+20320	San Pedro Molinos
+20321	San Pedro Nopala
+20322	San Pedro Ocopetatillo
+20323	San Pedro Ocotepec
+20324	San Pedro Pochutla
+20325	San Pedro Quiatoni
+20326	San Pedro Sochiapam
+20327	San Pedro Tapanatepec
+20328	San Pedro Taviche
+20329	San Pedro Teozacoalco
+20330	San Pedro Teutila
+20331	San Pedro Tidaa
+20332	San Pedro Topiltepec
+20333	San Pedro Totolapa
+20334	Villa de Tututepec de Melchor Ocampo
+20335	San Pedro Yaneri
+20336	San Pedro Yolox
+20337	San Pedro y San Pablo Ayutla
+20338	Villa de Etla
+20339	San Pedro y San Pablo Teposcolula
+20340	San Pedro y San Pablo Tequixtepec
+20341	San Pedro Yucunama
+20342	San Raymundo Jalpan
+20343	San Sebastian Abasolo
+20344	San Sebastian Coatlan
+20345	San Sebastian Ixcapa
+20346	San Sebastian Nicananduta
+20347	San Sebastian Rio Hondo
+20348	San Sebastian Tecomaxtlahuaca
+20349	San Sebastian Teitipac
+20350	San Sebastian Tutla
+20351	San Simon Almolongas
+20352	San Simon Zahuatlan
+20353	Santa Ana
+20354	Santa Ana Ateixtlahuaca
+20355	Santa Ana Cuauhtemoc
+20356	Santa Ana del Valle
+20357	Santa Ana Tavela
+20358	Santa Ana Tlapacoyan
+20359	Santa Ana Yareni
+20360	Santa Ana Zegache
+20361	Santa Catalina Quieri
+20362	Santa Catarina Cuixtla
+20363	Santa Catarina Ixtepeji
+20364	Santa Catarina Juquila
+20365	Santa Catarina Lachatao
+20366	Santa Catarina Loxicha
+20367	Santa Catarina Mechoacan
+20368	Santa Catarina Minas
+20369	Santa Catarina Quiane
+20370	Santa Catarina Tayata
+20371	Santa Catarina Ticua
+20372	Santa Catarina Yosonotu
+20372	Santa Catarina Yosonotu
+20373	Santa Catarina Zapoquila
+20374	Santa Cruz Acatepec
+20375	Santa Cruz Amilpas
+20376	Santa Cruz de Bravo
+20377	Santa Cruz Itundujia
+20378	Santa Cruz Mixtepec
+20379	Santa Cruz Nundaco
+20380	Santa Cruz Papalutla
+20381	Santa Cruz Tacache de Mina
+20382	Santa Cruz Tacahua
+20383	Santa Cruz Tayata
+20384	Santa Cruz Xitla
+20385	Santa Cruz Xoxocotlan
+20386	Santa Cruz Zenzontepec
+20387	Santa Gertrudis
+20388	Santa Ines del Monte
+20389	Santa Ines Yatzeche
+20390	Santa Lucia del Camino
+20390	Santa Maria Ixcotel
+20390	Ixcotel
+20391	Santa Lucia Miahuatlan
+20392	Santa Lucia Monteverde
+20393	Santa Lucia Ocotlan
+20394	Santa Maria Alotepec
+20395	Santa Maria Apazco
+20396	Santa Maria la Asuncion
+20397	Heroica Ciudad de Tlaxiaco
+20397	Ciudad de Tlaxiaco
+20397	Cd . de Tlaxiaco
+20398	Ayoquezco de Aldama
+20399	Santa Maria Atzompa
+20400	Santa Maria Camotlan
+20401	Santa Maria Colotepec
+20402	Santa Maria Cortijo
+20403	Santa Maria Coyotepec
+20404	Santa Maria Chachoapam
+20405	Villa de Chilapa de Diaz
+20406	Santa Maria Chilchotla
+20407	Santa Maria Chimalapa
+20408	Santa Maria del Rosario
+20409	Santa Maria del Tule
+20410	Santa Maria Ecatepec
+20411	Santa Maria Guelace
+20412	Santa Maria Guienagati
+20413	Huatulco
+20413	Santa Maria Huatulco
+20414	Santa Maria Huazolotitlan
+20415	Santa Maria Ipalapa
+20416	Santa Maria Ixcatlan
+20417	Santa Maria Jacatepec
+20418	Santa Maria Jalapa del Marques
+20419	Santa Maria Jaltianguis
+20420	Santa Maria Lachixio
+20421	Santa Maria Mixtequilla
+20422	Santa Maria Nativitas
+20423	Santa Maria Nduayaco
+20424	Santa Maria Ozolotepec
+20425	Santa Maria Papalo
+20426	Santa Maria Pennoles
+20427	Santa Maria Petapa
+20428	Santa Maria Quiegolani
+20429	Santa Maria Sola
+20430	Santa Maria Tataltepec
+20431	Santa Maria Tecomavaca
+20432	Santa Maria Temaxcalapa
+20433	Santa Maria Temaxcaltepec
+20434	Santa Maria Teopoxco
+20435	Santa Maria Tepantlali
+20436	Santa Maria Texcatitlan
+20437	Santa Maria Tlahuitoltepec
+20438	Santa Maria Tlalixtac
+20439	Santa Maria Tonameca
+20440	Santa Maria Totolapilla
+20441	Santa Maria Xadani
+20442	Santa Maria Yalina
+20443	Santa Maria Yavesia
+20444	Santa Maria Yolotepec
+20445	Santa Maria Yosoyua
+20445	Santa Maria Yosoyua
+20446	Santa Maria Yucuhiti
+20447	Santa Maria Zacatepec
+20448	Santa Maria Zaniza
+20449	Santa Maria Zoquitlan
+20450	Santiago Amoltepec
+20451	Santiago Apoala
+20452	Santiago Apostol
+20453	Santiago Astata
+20454	Santiago Atitlan
+20455	Santiago Ayuquililla
+20456	Santiago Cacaloxtepec
+20457	Santiago Camotlan
+20458	Santiago Comaltepec
+20459	Santiago Chazumba
+20460	Santiago Choapam
+20461	Santiago del Rio
+20462	Santiago Huajolotitlan
+20463	Santiago Huauclilla
+20464	Santiago Ihuitlan Plumas
+20465	Santiago Ixcuintepec
+20466	Santiago Ixtayutla
+20467	Santiago Jamiltepec
+20468	Monte Negro
+20468	Santiago Jocotepec
+20469	Santiago Juxtlahuaca
+20470	Santiago Lachiguiri
+20471	Santiago Lalopa
+20472	Santiago Laollaga
+20473	Santiago Laxopa
+20474	Santiago Llano Grande
+20475	Santiago Matatlan
+20476	Santiago Miltepec
+20477	Santiago Minas
+20478	Santiago Nacaltepec
+20479	Santiago Nejapilla
+20480	Santiago Nundiche
+20481	Santiago Nuyoo
+20482	Santiago Pinotepa Nacional
+20483	Santiago Suchilquitongo
+20484	Santiago Tamazola
+20485	Santiago Tapextla
+20486	Villa Tejupam de la Union
+20487	Santiago Tenango
+20488	Santiago Tepetlapa
+20489	Santiago Tetepec
+20490	Santiago Texcalcingo
+20491	Santiago Textitlan
+20492	Santiago Tilantongo
+20493	Santiago Tillo
+20494	Santiago Tlazoyaltepec
+20495	Santiago Xanica
+20496	Santiago Xiacui
+20497	Santiago Yaitepec
+20498	Santiago Yaveo
+20499	Santiago Yolomecatl
+20500	Santiago Yosondua
+20500	Santiago Yosondua
+20501	Santiago Yucuyachi
+20502	Santiago Zacatepec
+20503	Santiago Zoochila
+20504	Nuevo Zoquiapam
+20505	Santo Domingo Ingenio
+20506	Santo Domingo Albarradas
+20507	Santo Domingo Armenta
+20508	Santo Domingo Chihuitan
+20509	Santo Domingo de Morelos
+20510	Santo Domingo Ixcatlan
+20511	Santo Domingo Nuxaa
+20512	Santo Domingo Ozolotepec
+20513	Santo Domingo Petapa
+20514	Santo Domingo Roayaga
+20515	Santo Domingo Tehuantepec
+20516	Santo Domingo Teojomulco
+20517	Santo Domingo Tepuxtepec
+20518	Santo Domingo Tlatayapam
+20519	Santo Domingo Tomaltepec
+20520	Santo Domingo Tonala
+20521	Santo Domingo Tonaltepec
+20522	Santo Domingo Xagacia
+20523	Santo Domingo Yanhuitlan
+20524	Santo Domingo Yodohino
+20525	Santo Domingo Zanatepec
+20526	Santos Reyes Nopala
+20527	Santos Reyes Papalo
+20528	Santos Reyes Tepejillo
+20529	Santos Reyes Yucuna
+20530	Santo Tomas Jalieza
+20531	Santo Tomas Mazaltepec
+20532	Santo Tomas Ocotepec
+20533	Santo Tomas Tamazulapan
+20534	San Vicente Coatlan
+20535	San Vicente Lachixio
+20536	San Vicente Nunnu
+20536	San Vicente Nunnu
+20537	Silacayoapam
+20538	Sitio de Xitlapehua
+20539	Soledad Etla
+20540	Villa de Tamazulapam del Progreso
+20541	Tanetze de Zaragoza
+20542	Taniche
+20543	Tataltepec de Valdes
+20544	Teococuilco de Marcos Perez
+20545	Teotitlan de Flores Magon
+20546	Teotitlan del Valle
+20547	Teotongo
+20548	Tepelmeme Villa de Morelos
+20549	Tezoatlan de Segura y Luna
+20550	San Jeronimo Tlacochahuaya
+20551	Tlacolula de Matamoros
+20552	Tlacotepec Plumas
+20553	Tlalixtac de Cabrera
+20554	Totontepec Villa de Morelos
+20555	Trinidad Zaachila
+20556	Las Trinidad Vista Hermosa
+20556	La Trinidad Vista Hermosa
+20557	Union Hidalgo
+20558	Valerio Trujano
+20559	San Juan Bautista Valle Nacional
+20560	Villa Diaz Ordaz
+20561	Yaxe
+20562	Magdalena Yodocono de Porfirio Diaz
+20563	Yogana
+20564	Yutanduchi de Guerrero
+20565	Villa de Zaachila
+20566	Zapotitlan del Rio
+20567	Zapotitlan Lagunas
+20568	Zapotitlan Palmas
+20569	Santa Ines de Zaragoza
+20570	Zimatlan de Alvarez
+21001	Acajete
+21002	Acateno
+21002	San Jose Acateno
+21003	Acatlan de Osorio
+21003	Acatlan
+21004	Acatzingo de Hidalgo
+21004	Acatzingo
+21005	Acteopan
+21006	Ahuacatlan
+21007	Ahuatlan
+21008	Ahuazotepec
+21009	Ahuehuetitla
+21010	Ajalpan
+21011	Acaxtlahuacan de Albino Zertuche
+21011	Albino Zertuche
+21012	Aljojuca
+21013	Altepexi
+21014	Amixtlan
+21015	Amozoc
+21015	Amozoc de Mota
+21016	Aquixtla
+21017	Atempan
+21018	San Martin Atexcal
+21018	Atexcal
+21019	Atlixco
+21020	Atoyatempan
+21021	Atzala
+21022	Atzitzihuacan
+21022	Santiago Atzitzihuacan
+21023	Atzitzintla
+21024	Axutla
+21025	Ayotoxco de Guerrero
+21026	San Andres Calpan
+21026	Calpan
+21027	Caltepec
+21028	Camocuautla
+21029	Caxhuacan
+21030	Coatepec
+21031	Coatzingo
+21032	Cohetzala
+21032	Santa Maria Cohetzala
+21033	Cohuecan
+21034	Coronango
+21034	Santa Maria Coronango
+21035	Coxcatlan
+21036	Santa Maria Coyomeapan
+21036	Coyomeapan
+21037	San Vicente Coyotepec
+21037	Coyotepec
+21038	Cuapiaxtla de Madero
+21039	San Esteban Cuautempan
+21039	Cuautempan
+21040	Cuautinchan
+21041	Cuautlancingo
+21041	San Juan Cuautlancingo
+21042	Cuayuca de Andrade
+21042	San Pedro Cuayuca
+21043	Cuetzalan 
+21043	Cuetzalan del Progreso
+21043	Ciudad de Cuetzalan
+21043	Cd . Cuetzalan
+21044	Cuyoaco
+21045	Chalchicomula de Sesma
+21045	Ciudad Serdan
+21045	Cd . Serdan
+21046	Chapulco
+21047	Chiautla de Tapia
+21047	Chiautla
+21048	Chiautzingo
+21048	San Lorenzo Chiautzingo
+21049	Chiconcuautla
+21050	Chichiquila
+21051	Chietla
+21052	Chigmecatitlan
+21053	Ciudad de Chignahuapan
+21053	Cd . de Chignahuapan
+21053	Chignahuapan
+21054	Chignautla
+21055	Chila
+21056	Chila de la Sal
+21057	Honey
+21058	Rafael J. Garcia
+21058	Chilchotla
+21059	Chinantla
+21060	Domingo Arenas
+21061	Eloxochitlan
+21062	San Juan Epatlan
+21062	Epatlan
+21063	Esperanza
+21064	Metlaltoyuca
+21064	Francisco Z Mena
+21065	General Felipe Angeles
+21065	San Pablo de las Tunas
+21066	Guadalupe
+21067	Guadalupe Victoria
+21068	Hermenegildo Galeana
+21068	Bienvenido
+21069	Huaquechula
+21070	Huatlatlauca
+21071	Huauchinango
+21072	Huehuetla
+21073	Huehuetlan el Chico
+21074	Huejotzingo
+21075	Hueyapan
+21076	Hueytamalco
+21077	Hueytlalpan
+21078	Huitzilan de Serdan
+21078	Huitzilan
+21079	Santa Clara Huitziltepec
+21079	Huitziltepec
+21080	Atlequizayan
+21081	Ixcamilpa
+21081	Ixcamilpa de Guerrero
+21082	Ixcaquixtla
+21082	San Juan Ixcaquixtla
+21083	Ixtacamaxtitlan
+21084	Ixtepec
+21085	Izucar de Matamoros
+21085	Izucar de Matamoros
+21086	Jalpan
+21087	Jolalpan
+21088	Jonotla
+21089	Jopala
+21090	Cuanala
+21090	Juan C Bonilla
+21091	Juan Galindo
+21091	Nuevo Necaxa
+21092	Juan N Mendez
+21092	Atenayuca
+21093	Saltillo
+21093	Lafragua
+21094	Ciudad de Libres
+21094	Cd . Libres
+21094	Libres
+21095	La Magdalena Tlatlauquitepec
+21095	Magdalena Tlatlauquitepec
+21096	Mazapiltepec de Juarez
+21097	San Francisco Mixtla
+21097	Mixtla
+21098	Molcaxac
+21099	Morelos Cannada
+21099	Cannada Morelos
+21100	Naupan
+21101	Nauzontla
+21102	Nealtican
+21102	San Buenaventura Nealtican
+21103	Nicolas Bravo
+21104	Nopalucan
+21104	Nopalucan de la Granja
+21105	Ocotepec
+21106	Santa Clara Ocoyucan
+21106	Ocoyucan
+21107	Olintla
+21108	Oriental
+21109	Pahuatlan de Valle
+21109	Pahuatlan
+21110	Palmar de Bravo
+21111	Pantepec
+21112	Petlalcingo
+21113	Piaxtla
+21114	Puebla
+21114	Puebla , Pue
+21114	Heroica Puebla de Zaragoza
+21114	Puebla de Zaragoza
+21115	Quecholac
+21116	Quimixtlan
+21117	Rafael Lara Grajales
+21118	Reyes de Juarez
+21118	Los Reyes de Juarez
+21119	San Andres Cholula
+21120	San Antonio Cannada
+21121	San Diego la Mesa Tochimiltzingo
+21121	Tochimiltzingo
+21122	San Felipe Teotlalcingo
+21123	San Felipe Tepatlan
+21124	San Gabriel Chilac
+21125	San Gregorio Atzompa
+21126	San Jeronimo Tecuanipan
+21127	San Jeronimo Xayacatlan
+21128	San Jose Chiapa
+21129	San Jose Miahuatlan
+21130	San Juan Atenco
+21131	San Juan Atzompa
+21132	San Martin Texmelucan
+21132	San Martin Texmelucan de Labastida
+21133	San Martin Totoltepec
+21134	San Matias Tlalancaleca
+21135	San Miguel Ixitlan
+21136	San Miguel Xoxtla
+21137	San Nicolas de Buenos Aires
+21137	San Nicolas Buenos Aires
+21138	San Nicolas los Ranchos
+21138	San Nicolas de los Ranchos
+21139	San Pablo Amicano
+21139	San Pablo Anicano
+21140	Cholula de Rivadabia
+21140	San Pedro Cholula
+21141	San Pedro Yeloixtlahuaca
+21141	San Pedro Yeloixtlahuacan
+21142	San Salvador el Seco
+21143	San Salvador el Verde
+21144	San Salvador Huixcolotla
+21145	San Sebastian Tlacotepec
+21145	Tlacotepec de Diaz
+21146	Santa Catarina Tlaltempan
+21147	Santa Ines Ahuatempan
+21148	Santa Isabel Cholula
+21149	Santiago Miahuatlan
+21150	Santo Domingo Huehuetlan
+21150	Huehuetlan el Grande
+21151	Santo Tomas Hueyotlipan
+21152	Soltepec
+21153	Tecali de Herrera
+21154	Tecamachalco
+21155	Tecomatlan
+21156	Tehuacan
+21157	Tehuitzingo
+21158	Tenampulco
+21159	Teopantlan
+21160	Teotlalco
+21161	Tepanco de Lopez
+21162	Tepango de Rodriguez
+21163	Tepatlaxco de Hidalgo
+21164	Tepeaca
+21165	San Felipe Tepemaxalco
+21165	Tepemaxalco
+21166	Tepeojuma
+21167	Tepetzintla
+21168	Tepexco
+21169	Tepexi de Rodriguez
+21170	Tepeyahualco
+21171	Tepeyahualco Cuauhtemoc
+21171	Tepeyahualco de Cuauhtemoc
+21172	Tetela de Ocampo
+21173	Teteles de Avila Castillo
+21174	Teziutlan
+21175	Tianguismanalco
+21176	Tilapa
+21177	Tlacotepec de Benito Juarez
+21178	Tlacuilotepec
+21179	Tlachichuca
+21180	Tlahuapan
+21180	Santa Rita Tlahuapan
+21181	Tlaltenango
+21182	Tlanepantla
+21183	Tlaola
+21184	Tlapacoya
+21185	Tlapanala
+21186	Tlatlauquitepec
+21186	Ciudad de Tlatlauquitepec
+21186	Cd . de Tlatlauquitepec
+21186	Cd . Tlatlauquitepec
+21187	Tlaxco
+21188	Tochimilco
+21189	Tochtepec
+21190	Totoltepec de Guerrero
+21191	Tulcingo de Valle
+21191	Tulcingo
+21192	Tuzamapan de Galeana
+21193	Tzicatlacoyan
+21194	Venustiano Carranza
+21195	Vicente Guerrero
+21195	Santa Maria del Monte
+21196	Xayacatlan de Bravo
+21197	Xicotepec de Juarez
+21197	Xicotepec
+21198	Xicotlan
+21199	Xiutetelco
+21199	San Juan Xiutetelco
+21200	Xochiapulco
+21200	Cinco de Mayo
+21201	Xochiltepec
+21202	Xochitlan de Vicente Suarez
+21202	Xochitlan de Romero Rubio
+21203	Xochitlan Todos Santos
+21203	Xochitlan
+21204	Yaonahuac
+21205	Yehualtepec
+21206	Zacapala
+21207	Zacapoaxtla
+21208	Zacatlan
+21209	Zapotitlan Salinas
+21209	Zapotitlan
+21210	Zapotitlan de Mendez
+21211	Zaragoza
+21212	Santiago Zautla
+21212	Zautla
+21213	Zihuateutla
+21214	Zinacatepec
+21214	San Sebastian Zinacatepec
+21215	Zongozotla
+21216	Zoquiapan
+21217	Zoquitlan
+22001	Amealco
+22001	Amealco de Bonfil
+22002	Pinal de Amoles
+22003	Arroyo Seco
+22004	Cadereyta de Montes
+22004	Cadereyta
+22005	Colon
+22006	Pueblito
+22006	Corregidora
+22007	Ezequiel Montes
+22008	Huimilpan
+22009	Jalpan
+22009	Jalpan de Serra
+22010	Landa de Matamoros
+22011	El Marques
+22011	Cannada
+22012	Pedro Escobedo
+22013	Pennamiller
+22014	Queretaro
+22014	Santiago de Queretaro
+22015	San Joaquin
+22016	San Juan del Rio
+22017	Tequisquiapan
+22018	Toliman
+23001	Cozumel
+23002	Felipe Carrillo Puerto
+23003	Isla Mujeres
+23004	Othon P Blanco
+23004	Chetumal
+23005	Cancun
+23005	Benito Juarez
+23006	Jose Maria Morelos
+23007	Lazaro Cardenas
+23007	Kantunilkin
+23008	Playa del Carmen
+23008	Solidaridad
+24001	Ahualulco
+24001	Ahualulco del Sonido 13
+24002	Alaquines
+24003	Aquismon
+24004	Armadillo de los Infante
+24005	Cardenas
+24006	Catorce
+24006	Real de Catorce
+24007	Cedral
+24008	Cerritos
+24009	Cerro de San Pedro
+24010	Ciudad del Maiz
+24010	Cd . del Maiz
+24011	Ciudad Fernandez
+24011	Cd . Fernandez
+24012	Tancanhuitz
+24012	Tancanhuitz de Santos
+24013	Ciudad Valles
+24013	Cd . Valles
+24014	Coxcatlan
+24015	Charcas
+24016	Ebano
+24017	Guadalcazar
+24018	Huehuetlan
+24019	Lagunillas
+24020	Matehuala
+24021	Mexquitic de Carmona
+24022	Moctezuma
+24023	Rayon
+24024	Rioverde
+24025	Salinas de Hidalgo
+24025	Salinas
+24026	San Antonio
+24027	San Ciro de Acosta
+24028	San Luis Potosi
+24029	San Martin Chalchicuautla
+24030	San Nicolas Tolentino
+24031	Santa Catarina
+24032	Santa Maria del Rio
+24033	Santo Domingo
+24034	San Vicente Tancuayalab
+24035	Soledad de Graciano Sanchez
+24036	Tamasopo
+24037	Tamazunchale
+24038	Tampacan
+24039	Tampamolon Corona
+24040	Tamuin
+24041	Tanlajas
+24042	Tanquian de Escobedo
+24043	Tierra Nueva
+24044	Vanegas
+24045	Venado
+24046	Villa de Arriaga
+24047	Villa de Guadalupe
+24048	Villa de la Paz
+24049	Villa de Ramos
+24050	Villa de Reyes
+24051	Villa Hidalgo
+24052	Villa Juarez
+24053	Axtla de Terrazas
+24054	Xilitla
+24055	Villa de Zaragoza
+24055	Zaragoza
+24056	Villa de Arista
+24057	Matlapa
+24058	El Naranjo
+24058	Naranjo
+25001	Ahome
+25001	Mochis
+25002	Angostura
+25003	Badiraguato
+25004	Concordia
+25005	Cosala
+25006	Culiacan Rosales
+25006	Culiacan
+25007	Choix
+25008	Elota
+25009	Escuinapa
+25010	El Fuerte
+25011	Guasave
+25012	Mazatlan
+25013	Mocorito
+25014	Rosario
+25015	Salvador Alvarado
+25015	Guamuchil
+25016	San Ignacio
+25017	Sinaloa
+25017	Sinaloa de Leyva
+25018	Navolato
+26001	Aconchi
+26002	Agua Prieta
+26003	Alamos
+26004	Altar
+26005	Arivechi
+26006	Arizpe
+26007	Atil
+26008	Bacadehuachi
+26009	Bacanora
+26010	Bacerac
+26011	Bacoachi
+26012	Bacum
+26013	Banamichi
+26014	Baviacora
+26015	Bavispe
+26016	Benjamin Hill
+26017	Heroica Caborca
+26017	Caborca
+26018	Cajeme
+26018	Ciudad Obregon
+26018	Cd . Obregon
+26019	Cananea
+26020	Carbo
+26021	Colorada
+26021	La Colorada
+26022	Cucurpe
+26023	Cumpas
+26024	Divisaderos
+26025	Empalme
+26026	Etchojoa
+26027	Fronteras
+26028	Granados
+26029	Guaymas
+26029	Heroica Guaymas
+26030	Hermosillo
+26031	Huachinera
+26032	Huasabas
+26033	Huatabampo
+26034	Huepac
+26035	Imuris
+26036	Magdalena de Kino
+26036	Magdalena
+26037	Mazatan
+26038	Moctezuma
+26039	Naco
+26040	Nacori Chico
+26041	Nacozari de Garcia
+26042	Navojoa
+26043	Nogales
+26043	Heroica Nogales
+26044	Onavas
+26045	Opodepe
+26046	Oquitoa
+26047	Pitiquito
+26048	Puerto Pennasco
+26049	Quiriego
+26050	Rayon
+26051	Rosario
+26052	Sahuaripa
+26053	San Felipe de Jesus
+26053	San Felipe de Jesus
+26054	San Javier
+26055	San Luis Rio Colorado
+26056	San Miguel de Horcasitas
+26057	San Pedro de la Cueva
+26058	Santa Ana
+26059	Santa Cruz
+26060	Saric
+26061	Soyopa
+26062	Suaqui Grande
+26063	Tepache
+26064	Trincheras
+26065	Tubutama
+26066	Ures
+26066	Heroica Ciudad de Ures
+26066	Ciudad de Ures
+26066	Ciudad Ures
+26066	Cd . de Ures
+26066	Cd . Ures
+26066	Ures
+26067	Villa Hidalgo
+26068	Villa Pesqueira
+26069	Yecora
+26070	General Plutarco Elias Calles
+26070	Sonoita
+26071	Benito Juarez
+26071	Villa Juarez
+26072	San Ignacio Rio Muerto
+27001	Balancan
+27002	Cardenas
+27003	Centla
+27003	Frontera
+27004	Villahermosa
+27004	Centro
+27005	Comalcalco
+27006	Cunduacan
+27007	Emiliano Zapata
+27008	Huimanguillo
+27009	Jalapa
+27010	Jalpa de Mendez
+27011	Jonuta
+27012	Macuspana
+27013	Nacajuca
+27014	Paraiso
+27015	Tacotalpa
+27016	Teapa
+27017	Tenosique
+27017	Tenosique de Pino Suarez
+28001	Abasolo
+28002	Aldama
+28003	Altamira
+28004	Antiguo Morelos
+28005	Burgos
+28006	Bustamante
+28007	Ciudad Camargo
+28007	Cd . Camargo
+28007	Camargo
+28008	Casas
+28009	Ciudad Madero
+28009	Cd . Madero
+28010	Cruillas
+28011	Gomez Farias
+28012	Gonzalez
+28013	Guemez
+28013	Gyemez
+28014	Nueva Ciudad Guerrero
+28014	Nueva Cd . Guerrero
+28015	Ciudad Gustavo Diaz Ordaz
+28015	Cd . Gustavo Diaz Ordaz
+28015	Gustavo Diaz Ordaz
+28016	Hidalgo
+28017	Jaumave
+28018	Jimenez
+28018	Santander Jimenez
+28019	Llera
+28019	Llera de Canales
+28020	Villa Mainero
+28020	Mainero
+28021	Ciudad Mante
+28021	Cd . Mante
+28021	El Mante
+28021	Mante
+28022	Matamoros
+28022	Heroica Matamoros
+28023	Mendez
+28024	Mier
+28025	Ciudad Miguel Aleman
+28025	Cd . Miguel Aleman
+28025	Miguel Aleman
+28026	Miquihuana
+28027	Nuevo Laredo
+28028	Nuevo Morelos
+28029	Ocampo
+28030	Nueva Villa de Padilla
+28030	Padilla
+28031	Palmillas
+28032	Reynosa
+28033	Rio Bravo
+28033	Ciudad Rio Bravo
+28033	Cd . Rio Bravo
+28034	San Carlos
+28035	San Fernando
+28036	San Nicolas
+28037	Soto la Marina
+28038	Tampico
+28039	Tula
+28039	Ciudad Tula
+28039	Cd . Tula
+28040	Valle Hermoso
+28041	Victoria
+28041	Ciudad Victoria
+28041	Cd . Victoria
+28042	Villagran
+28043	Xicotencatl
+29001	Amaxac de Guerrero
+29002	Apetatitlan
+29002	Apetatitlan de Antonio Carvajal
+29003	Atlangatepec
+29004	Atlzayanca
+29004	Altzayanca
+29005	Apizaco
+29006	Calpulalpan
+29007	Tequixquitla
+29007	El Carmen Tequexquitla
+29008	Cuapiaxtla
+29009	Cuaxomulco
+29010	Chiautempan
+29011	Munnoz de Domingo Arenas
+29012	Espannita
+29013	Huamantla
+29014	Hueyotlipan
+29015	Ixtacuixtla de Mariano Matamoros
+29015	Villa Mariano Matamoros
+29016	Ixtenco
+29017	Mazatecochco
+29017	Mazatecochco de Jose Maria Morelos
+29018	Contla
+29018	Contla de Juan Cuamatzi
+29019	Tepetitla
+29019	Tepetitla de Lardizabal
+29020	Sanctorum de Lazaro Cardenas
+29020	Sanctorum
+29021	Nanacamilpa de Mariano Arista
+29021	Ciudad de Nanacamilpa
+29021	Cd . de Nanacamilpa
+29021	Cd . Nanacamilpa
+29022	Acuamanala
+29022	Acuamanala de Miguel Hidalgo
+29023	Nativitas
+29024	Panotla
+29025	San Pablo del Monte
+29025	Villa Vicente Guerrero
+29026	Santa Cruz Tlaxcala
+29027	Tenancingo
+29028	Teolocholco
+29029	Tepeyanco
+29030	Terrenate
+29031	Tetla
+29031	Tetla de la Solidaridad
+29032	Tetlatlahuca
+29033	Tlaxcala
+29033	Tlaxcala , Tlax
+29033	Tlaxcala de Xicohtencatl
+29034	Tlaxco
+29035	Tocatlan
+29036	Totolac
+29037	Zitlaltepec
+29037	Zitlaltepec de Trinidad Sanchez Santos
+29038	Tzompantepec
+29039	Xaloztoc
+29040	Xaltocan
+29041	Papalotla
+29041	Papalotla de Xicohtencatl
+29042	Xicohtzinco
+29043	Yauhquemehcan
+29043	Yauhquemecan
+29044	Zacatelco
+29045	Benito Juarez
+29046	Emiliano Zapata
+29047	Lazaro Cardenas
+29048	Magdalena Tlaltelulco
+29048	La Magdalena Tlaltelulco
+29049	San Damian Texoloc
+29050	San Francisco Tetlanohcan
+29051	San Jeronimo Zacualpan
+29052	San Jose Teacalco
+29053	San Juan Huactzinco
+29054	San Lorenzo Axocomanitla
+29055	San Lucas Tecopilco
+29056	Santa Ana Nopalucan
+29057	Santa Apolonia Teacalco
+29058	Santa Catarina Ayometla
+29059	Santa Cruz Quilehtla
+29060	Santa Isabel Xiloxoxtla
+30001	Acajete
+30002	Acatlan
+30003	Acayucan
+30004	Actopan
+30005	Acula
+30006	Acultzingo
+30007	Camaron de Tejeda
+30008	Alpatlahuac
+30009	Alto Lucero
+30009	Alto Lucero de Gutierrez Barrios
+30010	Altotonga
+30011	Alvarado
+30012	Amatitlan
+30013	Naranjos
+30013	Naranjos Amatlan
+30014	Amatlan de los Reyes
+30015	Angel R Cabada
+30015	Angel R. Cabada
+30016	La Antigua
+30016	Jose Cardel
+30017	Apazapan
+30018	Aquila
+30019	Astacinga
+30020	Atlahuilco
+30021	Atoyac
+30022	Atzacan
+30023	Atzalan
+30024	Tlaltetela
+30025	Ayahualulco
+30026	Banderilla
+30027	Benito Juarez
+30028	Boca del Rio
+30029	Calcahualco
+30030	Camerino Z Mendoza
+30030	Ciudad Mendoza
+30030	Cd . Mendoza
+30031	Carrillo Puerto
+30031	Tamarindo
+30032	Catemaco
+30033	Cazones
+30033	Cazones de Herrera
+30034	Cerro Azul
+30035	Citlaltepetl
+30035	Citlaltepec
+30036	Coacoatzintla
+30037	Progreso de Zaragoza
+30037	Coahuitlan
+30038	Coatepec
+30039	Coatzacoalcos
+30040	Coatzintla
+30041	Coetzala
+30042	Colipa
+30043	Comapa
+30044	Cordoba
+30045	Cosamaloapan de Carpio
+30046	Cosautlan de Carvajal
+30047	Coscomatepec de Bravo
+30047	Coscomatepec
+30048	Cosoleacaque
+30049	Cotaxtla
+30050	Coxquihui
+30051	Coyutla
+30052	Cuichapa
+30053	Cuitlahuac
+30054	Chacaltianguis
+30055	Chalma
+30056	Chiconamel
+30057	Chiconquiaco
+30058	Chicontepec
+30058	Chicontepec de Tejeda
+30059	Chinameca
+30060	Chinampa de Gorostiza
+30061	Choapass
+30061	Las Choapas
+30062	Chocaman
+30063	Chontla
+30064	Chumatlan
+30065	Dos Rios
+30065	Emiliano Zapata
+30066	Espinal
+30067	Filomeno Mata
+30068	Fortin de las Flores
+30068	Fortin
+30069	Gutierrez Zamora
+30070	Hidalgotitlan
+30071	Huatusco de Chicuellar
+30071	Huatusco
+30072	Huayacocotla
+30073	Hueyapan de Ocampo
+30074	Huiloapan
+30074	Huiloapan de Cuauhtemoc
+30075	Ignacio de la Llave
+30076	Ilamatlan
+30077	Isla
+30078	Ixcatepec
+30079	Ixhuacan de los Reyes
+30080	Ixhuatlan del Cafe
+30081	Ixhuatlancillo
+30082	Ixhuatlan del Sureste
+30083	Ixhuatlan de Madero
+30084	Ixmatlahuacan
+30085	Ixtaczoquitlan
+30086	Jalacingo
+30087	Xalapa 
+30087	Xalapa
+30087	Xalapa - Enriquez
+30088	Jalcomulco
+30089	Jaltipan de Morelos
+30089	Jaltipan
+30090	Jamapa
+30091	Jesus Carranza
+30091	Jesus Carranza
+30092	Xico
+30093	Jilotepec
+30094	Juan Rodriguez Clara
+30095	Juchique de Ferrer
+30096	Landero y Coss
+30097	Lerdo de Tejada
+30098	Magdalena
+30099	Maltrata
+30100	Manlio Fabio Altamirano
+30101	Mariano Escobedo
+30102	Martinez de la Torre
+30103	Mecatlan
+30104	Mecayapan
+30105	Medellin de Bravo
+30105	Medellin
+30106	Miahuatlan
+30107	Minass
+30107	Las Minas
+30108	Minatitlan
+30109	Misantla
+30110	Mixtla de Altamirano
+30111	Moloacan
+30112	Naolinco de Victoria
+30112	Naolinco
+30113	Naranjal
+30114	Nautla
+30115	Nogales
+30116	Oluta
+30117	Omealca
+30118	Orizaba
+30119	Otatitlan
+30120	Oteapan
+30121	Ozuluama de Mascarennas
+30122	Pajapan
+30123	Panuco
+30124	Papantla de Olarte
+30124	Papantla
+30125	Paso del Macho
+30126	Paso de Ovejas
+30127	Perla
+30127	La Perla
+30128	Perote
+30129	Platon Sanchez
+30130	Playa Vicente
+30131	Poza Rica de Hidalgo
+30132	Las Vigas de Ramirez
+30132	Vigas de Ramirezs
+30133	Ciudad Cuauhtemoc
+30133	Cd . Cuauhtemoc
+30133	Pueblo Viejo
+30134	Puente Nacional
+30135	Rafael Delgado
+30136	Rafael Lucio
+30137	Los Reyes
+30138	Rio Blanco
+30139	Saltabarranca
+30140	San Andres Tenejapan
+30141	San Andres Tuxtla
+30142	San Juan Evangelista
+30143	Santiago Tuxtla
+30144	Sayula de Aleman
+30145	Soconusco
+30146	Sochiapa
+30147	Soledad Atzompa
+30148	Soledad de Doblado
+30149	Soteapan
+30150	Tamalin
+30151	Tamiahua
+30152	Tampico Alto
+30153	Tancoco
+30154	Tantima
+30155	Tantoyuca
+30156	Tatatila
+30157	Castillo de Teayo
+30158	Tecolutla
+30159	Tehuipango
+30160	Alamo
+30160	Temapache
+30161	Tempoal de Sanchez
+30161	Tempoal
+30162	Tenampa
+30163	Tenochtitlan
+30164	Teocelo
+30165	Tepatlaxco
+30166	Tepetlan
+30167	Tepetzintla
+30168	Tequila
+30169	Jose Azueta
+30169	Villa Azueta
+30170	Texcatepec
+30171	Texhuacan
+30172	Texistepec
+30173	Tezonapa
+30174	Tierra Blanca
+30175	Tihuatlan
+30176	Tlacojalpan
+30177	Tlacolulan
+30178	Tlacotalpan
+30179	Tlacotepec de Mejia
+30180	Tlachichilco
+30181	Tlalixcoyan
+30182	Tlalnelhuayocan
+30183	Tlapacoyan
+30184	Tlaquilpa
+30185	Tlilapan
+30186	Tomatlan
+30187	Tonayan
+30188	Totutla
+30189	Tuxpam
+30189	Tuxpam de Rodriguez Cano
+30190	Tuxtilla
+30191	Ursulo Galvan
+30192	Vega de Alatorre
+30193	Veracruz
+30194	Villa Aldama
+30195	Xoxocotla
+30196	Yanga
+30197	Yecuatla
+30198	Zacualpan
+30199	Zaragoza
+30200	Colonia Manuel Gonzalez
+30200	Zentla
+30201	Zongolica
+30202	Zontecomatlan de Lopez y Fuentes
+30203	Zozocolco de Hidalgo
+30204	Agua Dulce
+30205	El Higo
+30205	Higo
+30206	Nanchital de Lazaro Cardenas del Rio
+30207	Tres Valles
+30208	Carlos A Carrillo
+30208	Carlos A. Carrillo
+30209	Tatahuicapan
+30209	Tatahuicapan de Juarez
+30210	Uxpanapa
+30210	Chinantla
+30211	San Rafael
+30212	Santiago Sochiapan
+31001	Abala
+31002	Acanceh
+31003	Akil
+31004	Baca
+31005	Bokoba
+31006	Buctzotz
+31007	Cacalchen
+31008	Calotmul
+31009	Cansahcab
+31010	Cantamayec
+31011	Celestun
+31011	Celestun
+31012	Cenotillo
+31013	Conkal
+31014	Cuncunul
+31015	Cuzama
+31016	Chacsinkin
+31017	Chankom
+31018	Chapab
+31019	Chemax
+31020	Chicxulub Pueblo
+31021	Chichimila
+31022	Chikindzonot
+31023	Chochola
+31024	Chumayel
+31025	Dzan
+31026	Dzemul
+31027	Dzidzantun
+31027	Dzidzantun
+31028	Dzilam de Bravo
+31029	Dzilam Gonzalez
+31030	Dzitas
+31031	Dzoncauich
+31032	Espita
+31033	Halacho
+31034	Hocaba
+31035	Hoctun
+31035	Hoctun
+31036	Homun
+31036	Homun
+31037	Huhi
+31038	Hunucma
+31039	Ixil
+31040	Izamal
+31041	Kanasin
+31042	Kantunil
+31043	Kaua
+31044	Kinchil
+31045	Kopoma
+31046	Mama
+31047	Mani
+31048	Maxcanu
+31048	Maxcanu
+31049	Mayapan
+31050	Merida
+31051	Mococha
+31052	Motul
+31052	Motul de Carrillo Puerto
+31053	Muna
+31054	Muxupip
+31055	Opichen
+31056	Oxkutzcab
+31057	Panaba
+31058	Peto
+31059	Progreso
+31060	Quintana Roo
+31061	Rio Lagartos
+31062	Sacalum
+31063	Samahil
+31064	Sanahcat
+31065	San Felipe
+31066	Santa Elena
+31067	Seye
+31068	Sinanche
+31069	Sotuta
+31070	Sucila
+31071	Sudzal
+31072	Suma
+31073	Tahdziu
+31073	Tahdziu
+31074	Tahmek
+31075	Teabo
+31076	Tecoh
+31077	Tekal de Venegas
+31078	Tekanto
+31079	Tekax
+31079	Tekax de Alvaro Obregon
+31080	Tekit
+31081	Tekom
+31082	Telchac Pueblo
+31082	Telchac
+31083	Telchac Puerto
+31084	Temax
+31085	Temozon
+31086	Tepakan
+31087	Tetiz
+31088	Teya
+31089	Ticul
+31090	Timucuy
+31091	Tinum
+31091	Tinum
+31092	Tixcacalcupul
+31093	Tixkokob
+31094	Tixmehuac
+31095	Tixpehual
+31096	Tizimin
+31097	Tunkas
+31098	Tzucacab
+31099	Uayma
+31100	Ucu
+31100	Ucu
+31101	Uman
+31102	Valladolid
+31103	Xocchel
+31104	Yaxcaba
+31105	Yaxkukul
+31106	Yobain
+32001	Apozol
+32002	Apulco
+32003	Atolinga
+32004	Benito Juarez
+32004	Florencia
+32005	Victor Rosales
+32005	Calera
+32006	Cannitas de Felipe Pescador
+32007	Concepcion del Oro
+32008	Cuauhtemoc
+32008	San Pedro Piedra Gorda
+32009	Chalchihuites
+32010	Fresnillo
+32011	Trinidad Garcia de la Cadena
+32012	Genaro Codina
+32013	General Enrique Estrada
+32014	Nieves
+32014	General Francisco R Murguia
+32015	El Plateado de Joaquin Amaro
+32015	Plateado de Joaquin Amaro
+32016	General Panfilo Natera
+32017	Guadalupe
+32018	Huanusco
+32019	Jalpa
+32020	Jerez
+32020	Jerez de Garcia Salinas
+32021	Jimenez del Teul
+32022	Juan Aldama
+32023	Juchipila
+32024	Loreto
+32025	Luis Moya
+32026	Mazapil
+32027	Melchor Ocampo
+32028	Mezquital del Oro
+32029	Miguel Auza
+32030	Momax
+32031	Monte Escobedo
+32032	Morelos
+32033	Moyahua de Estrada
+32034	Nochistlan de Mejia
+32035	Noria de Angeles
+32036	Ojocaliente
+32037	Panuco
+32038	Pinos
+32039	Rio Grande
+32040	Sain Alto
+32041	El Salvador
+32041	Salvador
+32042	Sombrerete
+32043	Susticacan
+32044	Tabasco
+32045	Tepechitlan
+32046	Tepetongo
+32047	Teul de Gonzalez Ortega
+32048	Tlaltenango de Sanchez Roman
+32049	Valparaiso
+32050	Vetagrande
+32051	Villa de Cos
+32052	Villa Garcia
+32053	Villa Gonzalez Ortega
+32054	Villa Hidalgo
+32055	Villanueva
+32056	Zacatecas
+32056	Zacatecas , Zac
+32057	Trancoso
+32058	Santa Maria de la Paz

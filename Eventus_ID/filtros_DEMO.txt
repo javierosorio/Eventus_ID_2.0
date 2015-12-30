@@ -1,0 +1,357 @@
+0	cartel de SINALOA
+0	cartel de JUAREZ
+0	cartel de Tijuana
+0	Cartel de Colima
+0	Cartel de Oaxaca
+0	Cartel de Guadalajara
+0	Cartel de Jalisco
+0	organizacion de Chihuahua
+0	organizacion de SINALOA
+0	organizacion de JUAREZ
+0	organizacion de Tijuana
+0	organizacion de Colima
+0	organizacion de Oaxaca
+0	organizacion de Guadalajara
+0	organizacion de Jalisco
+0	organizacion de Chihuahua
+0	delictiva de SINALOA
+0	delictiva de JUAREZ
+0	delictiva de Tijuana
+0	delictiva de Colima
+0	delictiva de Oaxaca
+0	delictiva de Guadalajara
+0	delictiva de Jalisco
+0	delictivo de SINALOA
+0	delictivo de JUAREZ
+0	delictivo de Tijuana
+0	delictivo de Colima
+0	delictivo de Oaxaca
+0	delictivo de Guadalajara
+0	delictivo de Jalisco
+0	criminal de SINALOA
+0	criminal de JUAREZ
+0	criminal de Tijuana
+0	criminal de Colima
+0	criminal de Oaxaca
+0	criminal de Guadalajara
+0	criminal de Jalisco
+0	Los Ayutla
+0	Limpia Mazateca
+0	Independiente de Acapulco
+0	Lomas de Sotelo, D.F.
+0	Lomas de Sotelo, DF
+0	Lomas de Sotelo, D F 
+0	Embajada de Mexico
+0	Operacion Conjunta Michoacan
+0	Operacion Sinaloa
+0	Centro y sudamerica
+0	operacion conjunta michoacana
+0	muebles de Madera	 
+0	1/a ZM Tacubaya DF   
+0	2/a ZM Tijuana BC   
+0	3/a ZM La Paz BCS   
+0	4/a ZM Hermosillo Son   
+0	5/a ZM Chihuahua Chih   
+0	6/a ZM Saltillo Coah   
+0	7/a ZM Escobedo NL   
+0	8/a ZM Cd Reynosa Tamps   
+0	9/a ZM Culiacán Sin   
+0	10/a ZM Durango Dgo   
+0	11/a ZM Guadalupe Zac   
+0	12/a ZM San Luís Potosí SLP   
+0	13/a ZM Tepíc Nay  
+0	14/a ZM Aguascalientes Ags   
+0	15/a ZM Zapopan Jal   
+0	16/a ZM Sarabia Gto   
+0	17/a ZM Querétaro Qro   
+0	18/a ZM Pachuca Hgo   
+0	19/a ZM Tuxpan Ver   
+0	20/a ZM Colima Col   
+0	21/a ZM Morelia Mich   
+0	22/a ZM Toluca Edo Méx   
+0	23/a ZM Panotla Tlax   
+0	24/a ZM Cuernavaca Mor   
+0	25/a ZM Puebla Pue   
+0	26/a ZM Lencero Ver   
+0	27/a ZM El Ticui Gro   
+0	28/a ZM Ixcotel Oax   
+0	29/a ZM Minatitlán Ver   
+0	30/a ZM Villahermosa Tab   
+0	31/a ZM Rancho Nuevo Chis   
+0	32/a ZM Valladolid Yuc   
+0	33/a ZM Campeche Camp  
+0	34/a ZM Chetumal QR   
+0	35/a ZM Chilpancingo Gro   
+0	36/a ZM Tapachula Chis   
+0	37/a ZM Santa Lucia Méx   
+0	38/a ZM Tenosique Tab   
+0	39/a ZM Ocosingo Chis   
+0	40/a ZM Guerrero Negro   
+0	41/a ZM Puerto Vallarta Jal   
+0	42/a ZM Hidalgo del Parral Chih   
+0	43/a ZM Apatzingán Mich   
+0	44/a ZM Miahuatlán Oax   
+0	45/a ZM Nogales Son   
+0	46/a ZM Ixtepec Oax   
+0	1/a Zona Militar Tacubaya DF   
+0	2/a Zona Militar Tijuana BC   
+0	3/a Zona Militar La Paz BCS   
+0	4/a Zona Militar Hermosillo Son   
+0	5/a Zona Militar Chihuahua Chih   
+0	6/a Zona Militar Saltillo Coah   
+0	7/a Zona Militar Escobedo NL   
+0	8/a Zona Militar Cd Reynosa Tamps   
+0	9/a Zona Militar Culiacán Sin   
+0	10/a Zona Militar Durango Dgo   
+0	11/a Zona Militar Guadalupe Zac   
+0	12/a Zona Militar San Luís Potosí SLP   
+0	13/a Zona Militar Tepíc Nay  
+0	14/a Zona Militar Aguascalientes Ags   
+0	15/a Zona Militar Zapopan Jal   
+0	16/a Zona Militar Sarabia Gto   
+0	17/a Zona Militar Querétaro Qro   
+0	18/a Zona Militar Pachuca Hgo   
+0	19/a Zona Militar Tuxpan Ver   
+0	20/a Zona Militar Colima Col   
+0	21/a Zona Militar Morelia Mich   
+0	22/a Zona Militar Toluca Edo Méx   
+0	23/a Zona Militar Panotla Tlax   
+0	24/a Zona Militar Cuernavaca Mor   
+0	25/a Zona Militar Puebla Pue   
+0	26/a Zona Militar Lencero Ver   
+0	27/a Zona Militar El Ticui Gro   
+0	28/a Zona Militar Ixcotel Oax   
+0	29/a Zona Militar Minatitlán Ver   
+0	30/a Zona Militar Villahermosa Tab   
+0	31/a Zona Militar Rancho Nuevo Chis   
+0	32/a Zona Militar Valladolid Yuc   
+0	33/a Zona Militar Campeche Camp  
+0	34/a Zona Militar Chetumal QR   
+0	35/a Zona Militar Chilpancingo Gro   
+0	36/a Zona Militar Tapachula Chis   
+0	37/a Zona Militar Santa Lucia Méx   
+0	38/a Zona Militar Tenosique Tab   
+0	39/a Zona Militar Ocosingo Chis   
+0	40/a Zona Militar Guerrero Negro   
+0	41/a Zona Militar Puerto Vallarta Jal   
+0	42/a Zona Militar Hidalgo del Parral Chih   
+0	43/a Zona Militar Apatzingán Mich   
+0	44/a Zona Militar Miahuatlán Oax   
+0	45/a Zona Militar Nogales Son   
+0	46/a Zona Militar Ixtepec Oax   
+0	Mexico DF 1
+0	Mexico DF 2
+0	Mexico DF 3
+0	Mexico DF 4
+0	Mexico DF 5
+0	Mexico DF 6
+0	Mexico DF 7
+0	Mexico DF 8
+0	Mexico DF 9
+0	Mexico DF 01
+0	Mexico DF 02
+0	Mexico DF 03
+0	Mexico DF 04
+0	Mexico DF 05
+0	Mexico DF 06
+0	Mexico DF 07
+0	Mexico DF 08
+0	Mexico DF 09
+0	Mexico DF 10
+0	Mexico DF 11
+0	Mexico DF 12
+0	Mexico DF 13
+0	Mexico DF 14
+0	Mexico DF 15
+0	Mexico DF 16
+0	Mexico DF 17
+0	Mexico DF 18
+0	Mexico DF 19
+0	Mexico DF 20
+0	Mexico DF 21
+0	Mexico DF 22
+0	Mexico DF 23
+0	Mexico DF 24
+0	Mexico DF 25
+0	Mexico DF 26
+0	Mexico DF 27
+0	Mexico DF 28
+0	Mexico DF 29
+0	Mexico DF 30
+0	Mexico DF 31
+0	Mexico D F 1
+0	Mexico D F 2
+0	Mexico D F 3
+0	Mexico D F 4
+0	Mexico D F 5
+0	Mexico D F 6
+0	Mexico D F 7
+0	Mexico D F 8
+0	Mexico D F 9
+0	Mexico D F 01
+0	Mexico D F 02
+0	Mexico D F 03
+0	Mexico D F 04
+0	Mexico D F 05
+0	Mexico D F 06
+0	Mexico D F 07
+0	Mexico D F 08
+0	Mexico D F 09
+0	Mexico D F 10
+0	Mexico D F 11
+0	Mexico D F 12
+0	Mexico D F 13
+0	Mexico D F 14
+0	Mexico D F 15
+0	Mexico D F 16
+0	Mexico D F 17
+0	Mexico D F 18
+0	Mexico D F 19
+0	Mexico D F 20
+0	Mexico D F 21
+0	Mexico D F 22
+0	Mexico D F 23
+0	Mexico D F 24
+0	Mexico D F 25
+0	Mexico D F 26
+0	Mexico D F 27
+0	Mexico D F 28
+0	Mexico D F 29
+0	Mexico D F 30
+0	Mexico D F 31
+0	Modelo Durango
+0	El Gobierno de Mexico
+0	Armada de Mexico
+0	Marina Armada de Mexico
+0	MarinaArmada de Mexico
+0	Marina de Mexico
+0	de la cruz
+0	A.M. Guanajuato
+0	A.M. Celaya
+0	A.M. Irapuato
+0	A.M. La Piedad
+0	A.M. León
+0	A.M. Sn Fco. Del Rincón
+0	D de Yucatán - Quintana Roo
+0	D de Yucatán - Campeche
+0	D de Yucatán - Nacional
+0	Diario de Chihuahua
+0	Diario de Juárez
+0	Diario de Querétaro
+0	Diario de Tampico
+0	Diario de Yucatán
+0	Diario de Yucatán - Mérida
+0	El Diario - Delicias
+0	El Diario - Parral
+0	El Sol de México
+0	El Son de San Luis
+0	La Unión de Morelos
+0	Milenio Estado de México
+0	Milenio Guadalajara
+0	Milenio León
+0	Milenio Monterrey
+0	Milenio Pachuca
+0	Milenio Puebla
+0	Milenio Villahermosa
+0	Milenio Xalapa
+0	Nuevo Casas Grandes
+0	casa de seguridad
+0	casas de seguridad
+0	casas de justicia
+0	casa de justicia
+0	sino
+0	la union de
+0	de la libertad
+0	de libertad
+0	por la libertad
+0	exigir la libertad
+0	exigen la libertad
+0	exige la libertad
+0	demandar la libertad
+0	demandan la libertad
+0	demanda la libertad
+0	su libertad
+0	en libertad
+0	en libertad a
+0	y libertad
+0	libertad a
+0	libertad para
+0	libertad de
+0	Libertad a presos
+0	libertad a presos
+0	estemos libres
+0	seamos libres
+0	estan libres
+0	sean libres
+0	con independencia
+0	por la paz
+0	para la paz
+0	regresa la paz
+0	regprese la paz
+0	regresar la paz
+0	recobrar la paz
+0	restablezcamos la paz
+0	restablecer la paz
+0	mantener la paz
+0	manteniendo la paz
+0	en la paz
+0	en paz
+0	la paz y
+0	y la paz
+0	a la paz
+0	de la paz
+0	amenazan la paz
+0	amenaza la paz
+0	delolver la paz
+0	devuelven la paz
+0	devolverle la paz
+0	exiguir la paz
+0	exigen la paz
+0	exige la paz
+0	paseo de Reforma
+0	de Reforma
+0	de la Reforma
+0	Avenida Reforma
+0	Avenida de la Reforma
+0	como el limon
+0	del limon
+0	suma el
+0	suma aproximada
+0	suma aproximadamente
+0	tala de arboles
+0	tala clandestina
+0	tala ilegal
+0	trincheras en
+0	en trincheras
+0	las trincheras
+0	trinchera en
+0	en trinchera
+0	la trinchera
+0	Plascencia Villanueva
+0	Villanueva Barrera
+0	Gustavo Villanueva
+0	Jose Villanueva
+0	Villanueva Manzanarez
+0	Octavio Villanueva
+0	Agustin Villanueva
+0	Villanueva Ramirez
+0	Agustin Villanueva
+0	Segun Villanueva
+0	pueblo de Mexico
+0	el Mexico que todos queremos
+0	Distrito Federal CP
+0	Distrito Federal CP . 11200
+0	Col . Lomas de Sotelo
+0	Col Lomas de Sotelo
+0	Deleg . Miguel Hidalgo
+0	Deleg Miguel Hidalgo
+0	En Perote , Ver . , a la
+0	En Martinez de la Torre , Ver . , al 
+0	En Veracruz , Ver . , al
+0	En Xalapa , Ver . , a
+0	En Orizaba , Ver . , al
+0	Zapopan , Jal . , a
+0	Cuernavaca , Mor . , a
+0	Tijuana , B . C . , a
+0	Nogales , Son . , a
+0	Culiacan , Sin . , a
